@@ -27,7 +27,8 @@ class PaperItem(scrapy.Item):
 
 class BibliometricSpider(scrapy.Spider):
     name = 'bibliometric'
-    start_urls = ['https://research-ebsco-com.crai.referencistas.com/c/q46rpe/search/results?q=computational%20thinking']
+    start_urls = ['https://research-ebsco-com.crai.referencistas.com/c/q46rpe/search/results?q=generative%20artificial%20intelligence'] # URL de búsqueda inicial
+
 
     custom_settings = {
         'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -43,8 +44,8 @@ class BibliometricSpider(scrapy.Spider):
         
         # Configuración de credenciales (REEMPLAZA CON TUS DATOS REALES)
         self.credentials = {
-            'google_email': 'erikp.trivinog@uqvirtual.edu.co',
-            'google_password': 'Erikpablot18'
+            'google_email': 'anderson.betancourta@uqvirtual.edu.co',
+            'google_password': '1094963718'
         }
         
         # Selección de formato de exportación

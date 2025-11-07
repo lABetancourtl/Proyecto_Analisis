@@ -226,9 +226,26 @@ def guardar_resultados(registros: list, prefijo: str):
 
 def main():
     print(" INICIO DEL PROCESO DE RECOLECCIÓN Y UNIFICACIÓN ")
-    
-    # Paso 1: Ejecutar todos los spiders
-    ejecutar_spiders()
+
+    project_root = get_project_root()
+    output_dir = os.path.join(project_root, 'requerimiento1', 'scrapy')
+    os.makedirs(output_dir, exist_ok=True)
+
+    archivos_existentes = all(
+        os.path.exists(os.path.join(output_dir, f))
+        for f in [
+            "resultadosBibliotecaCrai.ris",
+            "resultadosGoogleAcademy.ris",
+            "resultadosIeeexplore.ris"
+        ]
+    )
+
+    if archivos_existentes:
+        print("✅ Archivos RIS existentes encontrados. Se omite ejecución de Scrapy.")
+    else:
+        print("🚀 Ejecutando spiders de Scrapy para generar nuevos resultados...")
+        ejecutar_spiders()
+
     
     # Paso 2: Cargar y combinar resultados
     resultados = cargar_resultados()
@@ -244,7 +261,24 @@ def main():
     
     # Paso 4: Guardar resultados
     guardar_resultados(unicos, 'resultados_unificados')
-    guardar_resultados(duplicados, 'registros_duplicados')
+    guardar_resultados(duplicados, 'duplicados_eliminados')
+
+    import json
+
+    # Paso 4.1: Guardar estadísticas
+    stats = {
+        "total_records": len(resultados),
+        "duplicates": len(duplicados),
+        "unique_records": len(unicos)
+    }
+
+    stats_file = os.path.join(get_project_root(), 'resultados', 'requerimiento1', 'estadisticas_req1.json')
+    with open(stats_file, 'w', encoding='utf-8') as f:
+        json.dump(stats, f, indent=4, ensure_ascii=False)
+
+    print(f" Estadísticas guardadas en: {os.path.relpath(stats_file, get_project_root())}")
+
+
     
     print("\n PROCESO COMPLETADO CON ÉXITO ")
 

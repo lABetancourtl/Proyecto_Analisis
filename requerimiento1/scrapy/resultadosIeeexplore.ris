@@ -1,250 +1,250 @@
 TY  - JOUR
-TI  - On Computational Tools, Computational Thinking and Computational Methods
-AU  - Xiaofeng Zhang, Hailin Zou
-PY  - 2009
-JF  - Wuhan, China
+TI  - Frontiers and Challenges of Artificial Intelligence Algorithms in Data Science
+AU  - Rencong Huang
+PY  - 2025
+JF  - Beijing, China
 PB  - IEEE
-AB  - The appearance and innovation of computational tools depends on human thinking and initiative, and on the other hand, human thinking is affected by computational tools. The strong function of computational tools in some aspect is superior to that of human brains. It is the application of such strong function that changes the face of human society. At the same time, it presents new methods for scientific research and new perspective for solving problems, promotes human thinking to a higher level, and presents new means for people to understand and change the world. The advantage of computational tools over human brains is the speed, while the initiative ability of human brains is not owned by computational tools. Perfect combination of thinking and computing gives birth to a series of achievements, and lays the foundation of science.
-UR  - https://ieeexplore.ieee.org/document/4958823/
+AB  - Artificial intelligence (AI) has transformed data science by enabling advanced solutions for data processing, predictive modeling, and decision-making. This paper explores cutting-edge applications of AI algorithms, including deep learning, reinforcement learning, generative adversarial networks (GANs), and emerging techniques like large language models (LLMs) and graph neural networks (GNNs), across domains such as healthcare, finance, retail, and education. Despite their remarkable performance, challenges such as data privacy, model interpretability, computational efficiency, and ethical concerns remain critical barriers to widespread adoption. Through comprehensive case studies, experimental validation, and an analysis of societal impacts, this work highlights AI's transformative potential while proposing strategies to mitigate technical and ethical limitations. The paper also addresses the integration of AI in academic writing, emphasizing ethical usage to enhance clarity without compromising intellectual integrity.
+UR  - https://ieeexplore.ieee.org/document/11182653/
 ER  -
 
 TY  - JOUR
-TI  - Enhancing Computational Strategies to Decode ChatGPT's Influence on the Critical Thinking Abilities of University Students
-AU  - Gunawan, Shinta Palupi, Richki Hardi, Agung Sakti Pribadi, Riski Zulkarnain, M. Nurfalah Setiawan
+TI  - A Unified Generative Artificial Intelligence Approach for Converting Social Media Content
+AU  - Lossan Bonde, Severin Dembele
 PY  - 2024
-JF  - Balikpapan, Indonesia
+JF  - Port Louis, Mauritius
 PB  - IEEE
-AB  - The integration of artificial intelligence (AI) tools such as ChatGPT into educational contexts is reshaping the landscape of student learning and critical thinking. This study investigates the influence of ChatGPT on the critical thinking abilities of university students by enhancing computational strategies for analysis. We developed an advanced computational framework that leverages natural language processing (NLP) and machine learning (ML) techniques to evaluate the interaction between students and ChatGPT. Our approach involves the collection and analysis of large-scale interaction data to identify patterns and impacts on critical thinking development. We employed sentiment analysis, topic modeling, and argumentation mining to decode the nature of student responses and their evolution over time. The results reveal significant improvements in critical thinking skills among students who actively engage with ChatGPT, suggesting that the AI can act as a catalyst for developing higher-order thinking skills. This study contributes to the growing body of research on AI in education by providing insights into the mechanisms through which AI tools can enhance critical thinking, and proposes practical implications for integrating such tools into academic curricula. The findings support the notion that computational analysis can provide a nuanced understanding of AI's educational impacts, paving the way for more effective AI-assisted learning environments.
-UR  - https://ieeexplore.ieee.org/document/10748139/
+AB  - Social media content is relevant for many applications, including applications that assist in fighting the plague of terrorism through Artificial Intelligence (AI). However, social media content is diverse in its form - text, image, audio, and video. Depending on the nature of the applications, it may be desirable to convert all these forms into a unique format to ease processing. Once the data is converted into text, it is then possible to organize it into structured tabular data to feed Machine Learning (ML) algorithms for real-time terrorist attack detections. This paper explores using the emerging Generative Artificial Intelligence (Gen AI) tools for converting social media content (text, image, audio or video) into text format suitable for applying machine learning algorithms. The methodology of this research consisted of studying existing Gen AI tools, evaluating and selecting the best among those that offer API or code integration to implement a tool for converting all forms of social media content into text. The main limitation of this work is the small size of the datasets used in the tools' evaluation. The design and implementation of the proposed solution have been completed, and the tool is ready for use and integration into a framework for collecting and analysing social media content to fight against terrorism.
+UR  - https://ieeexplore.ieee.org/document/10645267/
 ER  -
 
 TY  - JOUR
-TI  - Exploration of ability development of engineering and computational thinking skills in software engineering majors
-AU  - Zhenrong Deng, Wenming Huang, Rongsheng Dong, Peizhi Wen
-PY  - 2009
-JF  - Nanning, China
+TI  - Research on Algorithmic Ethics in Artificial Intelligence
+AU  - Xinying Xu
+PY  - 2024
+JF  - Guangzhou, China
 PB  - IEEE
-AB  - Software talents should have the engineering ability, a common sense in IT industry, which is characterized by the fact that design plays a very important role in software engineering. Basis on the enhancement of computational thinking, the reform ideas of the development of the student's engineering ability are introduced. The detailed approaches include: 1) Extraction of fundamental discipline concept of engineering ability development; 2) Problem solving-centered organization of courses of software development tools; 3) Initiate the courses of software engineering as soon as possible; 4) Continual training of abstract logical thinking for the purpose of software abstract thinking.
-UR  - https://ieeexplore.ieee.org/document/5228288/
+AB  - With the rapid development of artificial intelligence, the ethical issues of artificial intelligence have become increasingly prominent. This paper discusses the problems of data security, bias and the implantation of morality and values in the ethics of artificial intelligence algorithms, and systematically and comprehensively expounds the main solutions to these three problems. It is found that the current three major technical paths for solving the data security issues have the problems of high dependency, large computation and communication overhead, and limited applicability, and the future trend is the integration and development of the three paths; the solution of the bias problem needs to be improved in terms of interpretability under the condition that the underlying fairness is difficult to be determined; and it is difficult for the implantation of morality and values to take into account the learning ability, adaptability, and interpretability at the same time. Finally, this paper analyzes and looks forward to the development of AI ethics, hoping to provide lessons and references for AI ethics-related research.
+UR  - https://ieeexplore.ieee.org/document/10692746/
 ER  -
 
 TY  - JOUR
-TI  - Performance-based evaluation of computational thinking skills using machine learning
-AU  - Elif Karakas, Meltem Turhan Yondem
-PY  - 2020
-JF  - Istanbul, Turkey
+TI  - A power system stability evaluation method based on artificial intelligence method
+AU  - Xinyu Hang, Feng Li, Deping Ke, Huimin Peng, Shuchuang Wu, Juewei Wu
+PY  - 2025
+JF  - Harbin, China
 PB  - IEEE
-AB  - This thesis study is an evaluation tool that measures the user's Computational Thinking (CT) according to its performance on Block-Based Programming Languages (BBPL) by using Machine Learning Techniques. The evaluation tool makes an evaluation for Machine Learning Model and each of the Computational Thinking seven fields. Via this developed tool, the objective is to product an alternative to the limited evaluation tools on Block-Based Programming Languages. Literature research was brought out in two sides as Machine Learning and Block-Based Programming Languages. In the first stage, on Machine Learning, the data set and the methods used in educational field were researched. In the second stage, the devices which are used to measure the performance on Block- Based Programming Languages were analyzed. On literature, there are various sources for teaching Computational Thinking ,but it occurs that measuring instruments that evaluates Computational Thinking are inadequate. To evaluate Computational Thinking a machine learning model was trained. Trained model was turned into online evaluation tool by which both the tutors and the students evaluate Computational Thinking easily. In the final stage, the developed online evaluation tool and the outcome was analyzed.
-UR  - https://ieeexplore.ieee.org/document/9247066/
+AB  - With the proposal of carbon neutrality, more and more new energy sources are used. Assessing the stability of power systems integrated with these new energy sources has become an urgent issue. To address this challenge, an artificial intelligence-based method for steady-state analysis of power systems was proposed. This method employed both the Newton-Raphson method and PQ decomposition to calculate the power flow within the power system. Subsequently, artificial intelligence techniques were utilized to evaluate the reliability of the results by analyzing error characteristics. This approach differed from traditional artificial intelligence methods by incorporating generative adversarial network-based data set expansion technology and a multi-scale fusion neural network model. The final result is verified by the actual data of East China Power Grid, which shows the feasibility of the artificial intelligence algorithm.
+UR  - https://ieeexplore.ieee.org/document/11041711/
 ER  -
 
 TY  - JOUR
-TI  - Computer Science Unplugged for Developing Computational Thinking and Mathematical Thinking
-AU  - Takayasu Nakamura, Tetsushi Kawasaki
-PY  - 2019
-JF  - Osaka, Japan
+TI  - Artificial Intelligence and Classrooms: Ethics in the Use of Artificial Intelligence in Education
+AU  - Martin Munoz-Mandujano, Mauricio Arturo Ibarra Corona, Jose Alejandro Vargas Diaz, Diego Octavio Ibarra Corona, Veronica Lopez Martinez, Gabriela Pacheco Sanchez
+PY  - 2023
+JF  - Porto, Portugal
 PB  - IEEE
-AB  - The purpose of this study is to make learning material that can develop both Computational thinking and Mathematical thinking. This study suggest a hamburger flowchart as a teaching material that combines the three elements of "unplugged", "thinking from the end " and "mathematics class". Using this flowchart, basic experiment was conducted for 8 to 12 years old. The purpose of this experiment is to confirm whether it is possible for children to develop both Computational thinking and Mathematical thinking by using the hamburger flowchart. We evaluated both Computational thinking and Mathematical thinking from the state in this class and the content of the worksheet and prior and subsequent tests. As a result, the state related to Computational thinking and Mathematical thinking increased, and the correct answer rate of many children increased from the prior test to the subsequent test. Therefore it turned out that the hamburger flowchart affects mathematical thinking.
-UR  - https://ieeexplore.ieee.org/document/9066359/
+AB  - While education and technology currently work hand in hand thanks to educational technology, there's a conflict when students want to use a technology that's prohibited by the teachers, usually because of the implications that a new technology (specifically, artificial intelligence tools) can have in the educational development of the students. In this regard, the present paper seeks to propose and describe the current considerations that need to be considered when including artificial intelligence tools and technologies in educational contexts. From the research, it was identified that it is essential to emphasize that artificial intelligence does not seek to replace teachers, but to complement their work, and that artificial intelligence should be used ethically by students and teachers in ways that result beneficial for teaching and learning alike.
+UR  - https://ieeexplore.ieee.org/document/10565670/
 ER  -
 
 TY  - JOUR
-TI  - Mapping computational thinking mindsets between educational levels with cognitive network science
+TI  - A Practical Study of Applying Generative Artificial Intelligence to Promote Programming Learning Engagement for Middle School Students
+AU  - Guochao Zheng, Jinlong Piao, Guohong Zhao
+PY  - 2025
+JF  - Suzhou, China
+PB  - IEEE
+AB  - Programming education has gained prominence in the intelligent era, yet students frequently encounter coding errors and struggle with algorithm comprehension, which diminishes their learning engagement. Although generative AI has brought new vitality to programming instruction, its concrete impacts demand further exploration. This study developed three distinct AI-powered learning strategies - Inquiry Learning, Collaborative Learning and Dialogic Learning - to establish a Generative AI Programming Teaching Model specifically for junior high students. Using a quasi-experimental approach, the research compared the effectiveness of this AI teaching model against traditional methods by implementing them in separate seventh-grade classes at a Y City middle school. The results of the study show that (1) The holistic application of generative AI learning strategies significantly enhanced junior high school students' programming learning engagement. (2) Generative AI learning strategies can enhance middle school students' emotional engagement. (3) Generative AI learning strategies can enhance middle school students' cognitive engagement. (4) Generative AI learning strategies can enhance middle school students' behavioral engagement. The study makes recommendations for the experimental results in order to provide references for improving programming learning engagement.
+UR  - https://ieeexplore.ieee.org/document/11158480/
+ER  -
+
+TY  - JOUR
+TI  - Research on Clothing Sketch Conversion Based on Generative Adversarial Networks
+AU  - Haofa Lin, Xinrong Hu
+PY  - 2025
+JF  - Loudi, China
+PB  - IEEE
+AB  - The image conversion of clothing sketches has enormous application value in fields such as visual editing, clothing design, and human-computer interaction. At present, most of the objects converted from sketches are relatively simple shapes, such as faces, human postures, animal postures, shoes, and bags. At present, sketch conversion-based work is difficult to handle images with complex texture structures, making it challenging to solve the task of image conversion for clothing sketches. Additionally, the lack of clothing datasets is also a difficult problem to solve. In order to solve the above problems, this paper proposes using an edge detection algorithm to generate clothing simulation sketches in reverse, solving the problem of missing clothing sketch datasets. Then, combined with generative adversarial networks in the field of artificial intelligence, the Cloth Sketch GAN (CSG) network framework is proposed. It improves the generator and discriminator on the basis of the pix2pix network, and enhances the image generation effect by adding an attention module in the generator of the U-Net network structure. Two scales of discriminators are used to discriminate the images separately, and multiple layers of feature extraction are introduced based on the two scales of discriminators. The design of the feature matching loss function and perception loss function is added to make the generated images more realistic and clear, thus completing the conversion from clothing sketch to clothing image. Applied research. Finally, experiments were conducted on the clothing dataset constructed in this article, and the results showed that Cloth Sketch GAN had a significant improvement in the performance of generating clothing images. Moreover, with the improved network proposed in this article, the task of converting clothing sketches to real clothing images can be effectively accomplished on the clothing dataset.
+UR  - https://ieeexplore.ieee.org/document/11108345/
+ER  -
+
+TY  - JOUR
+TI  - Exploration and Reflection of Legal Artificial Intelligence in Japan
+AU  - Zhengzhen Qian
+PY  - 2024
+JF  - Fuzhou, China
+PB  - IEEE
+AB  - It has been more than 60 years since the concept of artificial intelligence was established in 1956. In recent years, with the innovation and development of technology, especially the emergence of ChatGPT, it is expected that generative artificial intelligence models will lead to new breakthroughs in various industries. This thesis focuses on Japan, which is adjacent to China and belongs to the same continental legal system, and reviews the attempt of the fifth-generation computing institution construction legal expert system after combining symbolism and artificial intelligence in the 1990s in Japan, and analyzes the relevant research conducted by Japan in the field of artificial intelligence jurisprudence after that, as well as the new trends that have emerged in the field of legal artificial intelligence research after the advent of ChatGPT. This thesis will finally compare the research situation of the two countries in the field of artificial intelligence jurisprudence and comprehensively analyze the experience of Japan in the research, putting forward views on how to make China's legal artificial intelligence research smoother based on the lessons learned from past failures.
+UR  - https://ieeexplore.ieee.org/document/11022287/
+ER  -
+
+TY  - JOUR
+TI  - Revitalizing Historical Paintings through Artificial Intelligence
+AU  - Wai Yie Leong
+PY  - 2025
+JF  - Nan, Thailand
+PB  - IEEE
+AB  - This paper explores the innovative application of artificial intelligence (AI) in the revitalization of historical paintings, addressing the challenges of traditional restoration and enhancing preservation techniques. By leveraging advanced AI models, such as Generative Adversarial Networks (GANs), style transfer, and inpainting algorithms, this research demonstrates how machine learning can reconstruct, enhance, and restore artworks with remarkable detail and accuracy. Utilizing datasets of historical paintings, AI systems are trained to reproduce textures, restore faded colors, and even repair damaged sections, maintaining the authenticity of original masterpieces. Quantitative analyses, including image quality metrics like PSNR (Peak Signal-to-Noise Ratio) and SSIM (Structural Similarity Index), are conducted to compare AI-restored paintings with manually restored versions. Results indicate that AI-driven methods achieve high fidelity in texture and color restoration, offering a cost-effective and scalable solution for cultural preservation. The study concludes with a discussion on the potential applications of AI in museums and digital archives, emphasizing AI's transformative role in art conservation. Future research could extend these findings by addressing ethical considerations and collaborating closely with art historians to further refine AI's role in cultural heritage.
+UR  - https://ieeexplore.ieee.org/document/10962044/
+ER  -
+
+TY  - JOUR
+TI  - 2894-2024 - IEEE Guide for an Architectural Framework for Explainable Artificial Intelligence
 AU  - 
 PY  - 
 JF  - 
 PB  - IEEE
-AB  - A significant aspect of computational thinking is as a way of reasoning about the world in terms of data. This mindset channels number-crunching toward an ambition to discover knowledge through logic, models and simulations. Here we show how computational cognitive science can be used to reconstruct and analyse the structure of computational thinking mindsets (forma mentis in Latin) through complex networks. As a case study, we investigate cognitive networks tied to key concepts of computational thinking provided by (i) 159 high school students enrolled in a science curriculum and (ii) 59 researchers in complex systems and simulations. Researchers' reconstructed knowledge highlighted a positive mindset about scientific modelling, semantically framing data and simulations as ways of discovering nature. Students correctly identified different aspects of logic reasoning but perceived 'computation' as a distressing, anxiety-eliciting task, framed with math jargon and lacking links to real-world discovery. Students' mindsets around 'data', 'model' and 'simulations' critically revealed no awareness of numerical modelling as a way for understanding the world. Our findings provide evidence of a crippled computational thinking mindset in students, who acquire mathematical skills that are not channelled toward real-world discovery through coding. This unlinked knowledge ends up being perceived as distressing number-crunching expertise with no relevant outcome. The virtuous mindset of researchers reported here indicates that computational thinking can be restored by training students specifically in coding, modelling and simulations in relation to discovering nature. Our approach opens innovative ways for quantifying computational thinking and enhancing its development through mindset reconstruction.
-UR  - https://ieeexplore.ieee.org/document/9684795/
+AB  - A new wave of artificial intelligence applications that offer extensive benefits to our daily lives has been led to by dramatic success in machine learning. The loss of explainability during this transition, however, means vulnerability to vicious data, poor model structure design, and suspicion of stakeholders and the general public--all with a range of legal implications. The study of explainable AI (XAI), which is an active research field that aims to make AI systems results more understandable to humans, has been called for by this dilemma. This is a field with great hopes for improving the trust and transparency of AI-based systems and is considered a n... This guide provides a technological framework that aims to increase trustworthiness of AI systems using explainable artificial intelligence (XAI) technologies and methods. The document also provides measurable solutions to evaluate AI systems in terms of explainability. Specifically, the document illustrates the following aspects of XAI systems: a) The requirements of providing human-understandable explanations for AI systems in different use-cases, for example, healthcare and financial applications b) Approaches to offer a series of available tools for giving an AI model tenable explanations c) A set of measurable solutions to evaluate AI systems and corres... Artificial intelligence systems are expected to be trustworthy and adhere to human ethics principles including fairness, privacy, transparency, and so forth. Achieving the trustworthiness requires underlying mechanisms of AI systems that are transparent and understandable to all stakeholders of AI systems. This mandate motivates the study of a variety of explainable artificial intelligence (XAI) technologies and methods. Given the urgent need and profound influence of XAI, this guide aims to provide a technological framework that facilitates the adoption of relevant methods, facilitates the evaluation and comparison of different approaches, and showcases typ...
+UR  - https://ieeexplore.ieee.org/document/10659410/
 ER  -
 
 TY  - JOUR
-TI  - A practical research on the training of middle school students' computational thinking based on problem solving in systematic information process view
-AU  - Miaomiao Zhao, Weixing Hu
-PY  - 2022
-JF  - Harbin, China
-PB  - IEEE
-AB  - Computational thinking is the process sequence of solving problems and behaves a method of systematic solving problems. Computational thinking is essentially a view of systematic information processing process. In essence, developing the computational thinking of middle school students is to improve their problem-solving ability and the corresponding practical accomplishment. The instructional activity design based on six links of problem solving can well meet the need of cultivating students' computational thinking. The instructional mode of systematic problem solving in middle school can improve students' learning effects and satisfaction, and promote students' computational thinking ability significantly. The method of systematic information processing process can be trained.
-UR  - https://ieeexplore.ieee.org/document/10027412/
-ER  -
-
-TY  - JOUR
-TI  - Improving Computational Thinking Competencies in STEM Higher Education
-AU  - Nasrin Dehbozorgi, Mehdi Roopaei
+TI  - The Application of Artificial Intelligence in Data Preprocessing
+AU  - Chen Li
 PY  - 2024
-JF  - Princeton, NJ, USA
+JF  - Shenzhen, China
 PB  - IEEE
-AB  - Computational thinking (CT) is a key competency with a significant impact on students' academic performance in STEM fields. It empowers students to enhance problem-solving skills by decomposing problems, utilizing abstraction and pattern recognition, and employing algorithmic thinking to design solutions and build models. This is particularly important in STEM disciplines where logical reasoning is essential for addressing complex real-world challenges in academic and industrial settings. Given the increasing demand for professionals equipped with strong algorithmic thinking and problem-solving abilities in Industry 5, educational institutions are focusing on enhancing students' CT and problem-solving skills. This study presents an initiative conducted over the past two years at our institute to teach CT in a gateway course to students with different backgrounds in STEM fields. The approach involved designing specific learning modules on Abstraction, Decomposition, Pattern Recognition, and Algorithmic Thinking and integrating them into the LMS. After studying these learning modules, the students were exposed to specific assignments that required the application of related CT skills. Pre and post surveys were employed by using standard CT tests to measure the impact of the intervention on students' CT levels. The results indicated an improvement in students' perceptions of their mastery of CT. Academic course grades also showed an improvement, with increased A scores and reduced F grades post-intervention. This two-year study on improving CT skills has yielded promising results. Moving forward, the research aims to enhance the existing modules further and distribute them to a broader range of introductory-level STEM courses in other universities. This future direction aligns with the goal of expanding the impact of CT education and integrating it more widely into STEM curricula.
-UR  - https://ieeexplore.ieee.org/document/10664997/
+AB  - This study is based on the application of a real-measured data preprocessing method using data augmentation techniques. In response to the scarcity of sample data in the fields of construction and transportation, this paper proposes a data augmentation method based on the conditional generative adversarial network (CGAN). This method can learn the latent distribution of original data through a neural network and generate virtual data based on this distribution and specific conditional information, thereby meeting the training requirements of complex predictive models. Experimental validation was conducted on two data augmentation methods, introducing data augmentation tools from image recognition into the rectangular data in the construction and transportation fields for experimental analysis. The research results indicate that this data augmentation method can improve the accuracy and reliability of predictive models.
+UR  - https://ieeexplore.ieee.org/document/11116915/
 ER  -
 
 TY  - JOUR
-TI  - Computational thinking tools
-AU  - Alexander Repenning, Ashok Basawapatna, Nora Escherle
-PY  - 2016
-JF  - Cambridge, UK
+TI  - Advancing Academic Research through Artificial Intelligence Driven Innovation and Gen AI Application
+AU  - R. S. Kamath, P.G. Naik, S. S. Jamsandekar
+PY  - 2025
+JF  - Indore, India
 PB  - IEEE
-AB  - Computational Thinking is an essential skill for all students in the 21 st Century. A fundamental question is how can we create computer affordances to empower novice teachers and students, in a variety of STEM and art disciplines, to think computationally while avoiding difficult overhead emerging from traditional coding? Over the last 20 years we have iteratively developed tools that aim to support computational thinking. As these tools evolved a philosophy emerged to support Computational Thinking by joining human abilities with computer affordances. Chief among these findings is that supporting Computational Thinking is much more than making coding accessible. Computational Thinking Tools aim to minimize coding overhead by supporting users through three fundamental stages of the Computational Thinking development cycle: problem formulation, solution expression, and solution execution/evaluation.
-UR  - https://ieeexplore.ieee.org/document/7739688/
+AB  - Artificial Intelligence (AI) is changing the landscape of academic research by facilitating tools and techniques that improve various stages of the research process. The addition of AI into academic research enhances research methodologies by improving data collection and analysis, enabling researchers to expose insights more efficiently. AI contributes to an innovative research environment by automating routine tasks and offering predictive capabilities. AI tools are assisting assist in organizing vast amounts of data, identifying trends, literature review, and data analysis, hence improving the overall quality of research output. This paper portrays the transformative role of AI in academic research by exploring its application across various stages of the research workflow. This study reports the use of AI for data analysis, and model construction, offering researchers more accuracy and speed than traditional methods. Furthermore, the paper introduces the development of a Generative Artificial Intelligence (Gen AI) application to interact with PDF documents. This AI-driven app facilitates researchers to engage in conversational interactions with academic texts, thereby simplifying the process of extracting key information. The GenAI app is developed using open-source tools including Google Colab, the HuggingFace model, and the Langchain Framework. This application demonstrates the practical potential of AI in improving knowledge discovery in research. The research is extended by incorporating experiments conducted using Google AI Studio, a platform that offers robust generative AI capabilities. The study concludes by highlighting AI's influence on academic research, anticipating how it will continue to reshape research practices in the future. As AI and GenAI advance, lead to more interdisciplinary collaboration and innovations in academic research.
+UR  - https://ieeexplore.ieee.org/document/11199274/
 ER  -
 
 TY  - JOUR
-TI  - Computational Thinking & Practical Thinking Inspired Java Web Curriculum Reform Method
-AU  - Fengping Yu, Hong Wang
-PY  - 2019
-JF  - Qingdao, China
-PB  - IEEE
-AB  - Both Computational thinking and Practical thinking are important concepts of great concern to the international computer community. They are also hot topics needed to be studied in education. Inspired by these two kinds of thinking, we expound how to better carry out teaching practice. The teaching process is task-oriented, teacher-led and student-centered. In the whole teaching process, teachers use the way of integrating computational thinking with practical thinking to prepare courses, design tasks and guide students to complete learning tasks. Compared with the traditional teaching mode, the teaching mode of integrating computational thinking and practical thinking has made great progress in training students' computer practical ability and innovation ability. It can not only improve learning efficiency, but also train students' computer practical ability. Finally, the feasibility and efficiency of this method are verified by Java Web course design.
-UR  - https://ieeexplore.ieee.org/document/8964889/
-ER  -
-
-TY  - JOUR
-TI  - Computational Thinking Education: Who Let the Dog Out?
-AU  - Samar Swaid, Taima Suid
-PY  - 2019
-JF  - Las Vegas, NV, USA
-PB  - IEEE
-AB  - Today, Computational Thinking is seen as an important competency and the fourth skill that every child should process. Several significant attempts have been made to increase a student's exposure to Computational Thinking at the K-12 level, however the process is complex and requires systematic planning and comprehensive curriculum. In this paper, we describe the STEPP-UP program that aims to introduce middle schoolers to Computational Thinking via Scratch and Java coding sessions. A comprehensive curriculum and hands-on activities are applied to introduce Computational Thinking for a total of 41 students for a period of five semesters from Fall 2017 until Fall 2019. To assess the learning objectives, we used three methods of evaluation; design-scenarios, paper-assessments, and learner-documentation. Findings indicate that the students have increased knowledge of Computational Thinking and its applications for problem solving.
-UR  - https://ieeexplore.ieee.org/document/9071265/
-ER  -
-
-TY  - JOUR
-TI  - Teaching mode reform and exploration on the University Computer Basic based on Computational thinking training in Network Environment
-AU  - Boqin Liu, Junmei He
-PY  - 2014
-JF  - Vancouver, BC, Canada
-PB  - IEEE
-AB  - Due to the international and domestic education and computer industries and so on computational thinking attaches great importance and has done considerable exploratory research, our school also reform and exploration teaching mode on the University Computer Basic based on Computational thinking training in network environment, and the use of based on Computational thinking Autonomous learning mode in the Network Environment in the actual teaching, strengthen the learners understanding of computer science, corrected the computing disciplines equivalent to the idea of computer programming, enhance the connotation and science significance of computer disciplines, to overcome the computer means "narrow tool" argument,and achieved good teaching results.
-UR  - https://ieeexplore.ieee.org/document/6926430/
-ER  -
-
-TY  - JOUR
-TI  - Influence of Programming Robot Learning Mode Based on Conceptual Mapping on College Students' Computational Thinking
-AU  - Bing-Hong Chen, Ling-Hsiu Chen, Chih-Cheng Chen, Chih-Hung Chen
-PY  - 2021
-JF  - Yunlin, Taiwan
-PB  - IEEE
-AB  - As the information age has progressed, computational thinking ability to solve problems has become an indispensable way of life in life. Many scholars believe that the process of solving problems will be more logical if they have computational thinking ability. At the same time, scholars believe that a good learning method improves learners' intrinsic motivation. Therefore, in this research, we try to use conceptual mapping so that students can construct knowledge when composing their own images, as the focus of this learning model and computational thinking is the thinking process and the two coincide. This research intends to introduce the traditional programming robot course into conceptual mapping and measure whether there are differences in computational thinking tendencies, problem-solving tendencies, and intrinsic motivations between students who use conceptual mapping and those who do not use it. The students in the experimental group with conceptual mapping activities developed computational thinking skills during the program robotics course. The students in the control group first watched the computational thinking explanation video to explain the computational thinking skills to the students, and then taught in the traditional programming robotics course.
-UR  - https://ieeexplore.ieee.org/document/9645630/
-ER  -
-
-TY  - JOUR
-TI  - Helping Novice Programmers to Bootstrap in the Cloud: Incorporating Support for Computational Thinking into the Game Design Process
-AU  - Navid Ahmadi, Mehdi Jazayeri, Monica Landoni
-PY  - 2012
-JF  - Rome, Italy
-PB  - IEEE
-AB  - Game design environments are traditionally used as means for engaging non-programmers in the learning process. However, these environments lack specific support for teaching computational thinking to novices. Typically, such skills are acquired in ad hoc practical sessions with supervision provided by teachers or peers. The usual scenario is where a teacher guides the students in solving these problems during a game design session. In informal learning settings, step-by-step tutorials for creating existing games are used to compensate for the lack of computer support for solving design and computational problems. In this paper we suggest a game design process that combines support for computational thinking with tool usage, by identifying the most common computational thinking problems and providing a generic solution to them. We have evaluated our solution in the context of AgentWeb, an online cloud-based game design environment for novices. We discuss how to incorporate suggested computational thinking solutions as computer assistant into the game design user interface.
-UR  - https://ieeexplore.ieee.org/document/6268116/
-ER  -
-
-TY  - JOUR
-TI  - Improving learning of computational thinking using creative thinking exercises in CS-1 computer science courses
-AU  - L. Dee Miller, Leen-Kiat Soh, Vlad Chiriacescu, Elizabeth Ingraham, Duane F. Shell, Stephen Ramsay
-PY  - 2013
-JF  - Oklahoma City, OK, USA
-PB  - IEEE
-AB  - Promoting computational thinking is one of the top priorities in CS education as well as in other STEM and non-STEM disciplines. Our innovative NSF-funded IC2Think project blends computational thinking with creative thinking so that students leverage their creative thinking skills to "unlock" their understanding of computational thinking. In Fall 2012, we deployed creative exercises designed to engage Epstein's creative competencies (Surrounding, Capturing, Challenging and Broadening) in introductory level CS courses targeting four different groups (CS, engineering, combined CS/physical sciences, and humanities majors). Students combined hands-on problem solving with guided analysis and reflection to connect their creative activities to CS topics such as conditionals and arrays and to real-world CS applications. Evaluation results (approximately 150 students) found that creative thinking exercise completion had a linear "dosage" effect. As students completed more exercises [0/1 - 4], they increased their long-term retention [a computational thinking test], F(3, 98) = 4.76, p =.004, partial Eta 2 = .127 and course grades, F(3, 109) = 4.32, p =.006, partial Eta 2 = .106. These findings support our belief that the addition of creative thinking exercises to CSCE courses improves the learning of computational knowledge and skills.
-UR  - https://ieeexplore.ieee.org/document/6685067/
-ER  -
-
-TY  - JOUR
-TI  - Fostering Critical and Computational Thinking in the Field of Primary and Secondary Education in non-STEM Subjects by Using Data Sets and Applications
-AU  - Ines Vlahovic, Ivana Ogrizek Biskupic
-PY  - 2023
-JF  - Opatija, Croatia
-PB  - IEEE
-AB  - Critical and computational thinking in primary and secondary education in recent years shows growing importance in methodical approaches used in the classroom. Although many examples exist for using critical and computational thinking in STEM educational area, the social sciences i.e., non-STEM areas were somehow left out due to the relatively more difficult design of such content, especially in the part of the development of computational thinking. In that context, in this paper we present one way of using critical and computational thinking in non-STEM education, more specifically on the example of historical data sources, through the use of programming in Python. As an example, we use historical data for Trans-Atlantic Slave Trade routes, that were the largest long-distance coerced movement of people in history up to the mid-nineteenth century, for connecting concepts of databases, Data Science and programming for development of critical and computational thinking in context of history science. This way of using modern approaches in classroom should give teachers and pupils a broader picture of importance of interdisciplinary education for critical and computational thinking development through STEM and non-STEM classes that give pupils novel skills needed for future labor market.
-UR  - https://ieeexplore.ieee.org/document/10159750/
-ER  -
-
-TY  - JOUR
-TI  - A Study of Micro:bit Teaching Design Based on the Development of Computational Thinking of Secondary School Students
-AU  - Junjie Liu, Xiaojun Xia, Yi Bai, Pingyao Liu
-PY  - 2022
-JF  - Xi'an, China
-PB  - IEEE
-AB  - With the rapid development of human society and technology, it's necessary for contemporary students to have the ability to quickly adapt to social development. Meanwhile, traditional educational concepts have to be transformed in time, and a full understanding of computational thinking plays an important role in promoting students' life-long development. Based on in-depth analysis and research on computational thinking theory, this paper integrates micro: bit into teaching from the perspective of practical application. After analyzing the teaching objectives, teaching contents, and teaching process, this paper proposes an instructional design for the development of computational thinking for secondary school students.
-UR  - https://ieeexplore.ieee.org/document/9973092/
-ER  -
-
-TY  - JOUR
-TI  - Real Time Assessment of Computational Thinking
-AU  - Kyu Han Koh, Ashok Basawapatna, Hilarie Nickerson, Alexander Repenning
-PY  - 2014
-JF  - Melbourne, VIC, Australia
-PB  - IEEE
-AB  - This paper suggests a Cyberlearning tool based on a highly innovative assessment methodology that helps teachers with computer science education. Currently, there is a strong push to integrate aspects of programming and coding into the classroom environment. However, few if any tools exist that enable real-time formative assessment of in-class programming tasks. The proposed REACT (Real Time Evaluation and Assessment of Computational Thinking) system is a first step toward allowing teachers to see which high-level concepts students have mastered and which ones they are struggling with as students code in real time. REACT supports and facilitates the teaching of 21st century computing skills such as computational thinking [1] in the classroom environment.
-UR  - https://ieeexplore.ieee.org/document/6883021/
-ER  -
-
-TY  - JOUR
-TI  - Construction and Application of a Computational Thinking Assessment Framework from the Perspective of the Iceberg Model
-AU  - Xuchen Zhou, Wei Zhang, Shengming Wang, Hao Chen
-PY  - 2023
+TI  - Using Artificial Intelligence for Generative Design Through a Software Tool in a Mechatronic Course
+AU  - H. R. Morano-Okuno, G. Sandoval-Benitez
+PY  - 2024
 JF  - Tokyo, Japan
 PB  - IEEE
-AB  - Computational thinking assessment is an important part of testing the effectiveness of computational thinking cultivation. However, the existing computational thinking assessments still suffer from the problem of insufficient examination of non-cognitive factors, leading to the lack of validity of its assessment results. Since the iceberg model can comprehensively and deeply explore individual characteristics, this paper draws on the division idea of the model and divides computational thinking into explicit computational thinking the basic knowledge required to solve problems using computational thinking and implicit computational thinking the internal psychological characteristics of individuals in the process of using computational thinking. A comprehensive assessment framework of computational thinking is constructed, which contains five dimensions: knowledge and skills, self-efficacy, internet attitude, learning motivation, and thinking style. Finally, its application in the hierarchical teaching of computational thinking and suggestions for personalized teaching programs are given in order to promote the development of personalized education in computational thinking.
-UR  - https://ieeexplore.ieee.org/document/10496944/
+AB  - Nowadays, the number of Artificial Intelligence (AI) applications has significantly increased, such as in the case of the design of mechanical components and aeronautical structures, to name a few. The above is done via Generative Design founded on AI algorithms. Diverse software applications include these programmed algorithms, and menus and dialog boxes permit users to execute them quickly. This work was developed during a course for mechatronic engineering students in the sixth semester. The objectives were 1) to explore a Generative Design software application based on AI, 2) to determine the type of boundary conditions that must be specified to produce the Generative Design of components using AI algorithms, and 3) to know the perception of students when using this type of computational tools in their course. Results show that the higher the boundary conditions, the greater the computational resources required to generate the component design. Another finding indicates that students are interested in these computational tools for solving class exercises and continue to use them as didactic resources.
+UR  - https://ieeexplore.ieee.org/document/10904391/
 ER  -
 
 TY  - JOUR
-TI  - An Empirical Study on Blended Learning to Promote the Development of Computational Thinking Ability of College Students
-AU  - Lihua Liao, Jin Liang
-PY  - 2017
-JF  - Hong Kong, China
+TI  - Engineers' Perspectives on the Use of Generative Artificial Intelligence Tools in the Workplace
+AU  - Jose Joskowicz, Daniel Slomovitz
+PY  - 
+JF  - 
 PB  - IEEE
-AB  - Studies have shown that learning approaches are able to promote the developments of computational thinking on students, including cooperative learning, project-based learning, online communication, Academic dialogue etc. Therefore, these learning approaches can combine with the traditional teaching in a more effective way. Blended learning may promote the developments of computational thinking on students. The paper takes the junior College students as the experimental objects, and carries a pretest-posttest study through unequal experimental and control groups. It approved that blended learning has a positive impact on the college student's computational thinking, i.e., they have an obvious progress.
-UR  - https://ieeexplore.ieee.org/document/8005431/
+AB  - The integration of artificial intelligence (AI) into the workplace requires commitment not only from the leadership of company directors but, equally important, from the engineers responsible for its implementation. This article presents a survey on perceptions concerning the utilization of AI tools in engineering environments. It was focused on engineers and students in the areas of electricity, electronics, and computing. The questionnaire covered demographic information, AI knowledge level, preferred tools, primary applications, perceived impact, and attitudes toward labor substitution. With the endorsement of the IEEE Uruguay Section and IEEE Region 9, the survey was distributed via email to a diverse group of potential participants, in several countries, including all IEEE members in Region 9. There were 375 replies to the survey, from 20 different countries in the Americas.
+UR  - https://ieeexplore.ieee.org/document/10319661/
 ER  -
 
 TY  - JOUR
-TI  - Hot Spots and Trends of Computational Thinking Research in China CiteSpace visualization and analysis based on CNKI data
-AU  - Yiwei Wang, Liancheng Xu
-PY  - 2023
-JF  - Wuyishan, China
-PB  - IEEE
-AB  - With the rapid development of computer technology, computational thinking, as one of the core literacy elements of information technology majors, has been widely noticed, and at the same time, it has gradually become one of the core competencies cultivated by education and teaching. This paper uses CiteSpace to visualize and analyze the Chinese core papers related to computational thinking included in CNKI. By studying the current situation of domestic research on computational thinking and related hot keywords, it aims to explore the prospects for the application of computational thinking in secondary education, try to incorporate the educational model of C elements in STEM education, and provide research ideas for the cultivation of computational thinking ability of secondary students.
-UR  - https://ieeexplore.ieee.org/document/10505497/
-ER  -
-
-TY  - JOUR
-TI  - Bringing Computational Thinking Skills Into Physics Classroom Through Project-Based Learning
-AU  - Rif'Ati Dina Handayani, Albertus Djoko Lesmono, Srihandono Budi Prastowo, Bambang Supriadi, Nila Mutia Dewi
-PY  - 2022
-JF  - Malang, Indonesia
-PB  - IEEE
-AB  - Computational thinking is a fundamental thinking skill for students in the 21st-century learning era. This study aims to integrate computational thinking skills in physics through project-based learning. Data were gathered through observation, interviews, and portfolio documents. The results indicated three main categories of computational thinking: decomposition, abstraction, and simulation. The implementation of project-based learning can develop students' computational thinking skills. Students are trained to solve physics problems analytically and precisely in structured and logical thinking through a project. This research is expected to be the information for physics teachers to integrate computational thinking in the classroom as a 21st-century learning skill.
-UR  - https://ieeexplore.ieee.org/document/9990631/
-ER  -
-
-TY  - JOUR
-TI  - Promoting Computational Thinking Skills Through Game-Based Learning of Students in Lower Secondary School
-AU  - Siripon Saenboonsong, Akarapon Poonsawad
+TI  - Application Research of Generative Artificial Intelligence Technology in the Design and Art Course Teaching
+AU  - Jing Ning, Yi Gao, Mingxin Luo
 PY  - 2024
-JF  - Cha-am, Hua Hin, Thailand
+JF  - Beijing, China
 PB  - IEEE
-AB  - This study's objectives were to: 1) compare computational thinking skills before and after game-based learning activities; and 2) study students' satisfaction after game-based learning. The research methodology uses the ADDIE model by driving game-based learning activities and promoting students with computational thinking skills, including decomposition, pattern recognition, abstraction, and algorithm design. The statistical methods used to analyze the data were mean, standard deviation, and t-test. The study's findings revealed that 1) the students' computational thinking skills improved significantly after engaging in game-based learning activities, demonstrating statistical significance at the.05 level, and 2) the overall students' satisfaction after activities with game-based learning was averaged at the highest level (= 4.75, S.D. = 0.52).
-UR  - https://ieeexplore.ieee.org/document/10663178/
+AB  - The education mode of art design education in colleges and universities is more flexible, and the practitioners and art design talents in this field have a high acceptance of new technologies and new scenes, providing a wide range of application scenarios and product forms for the integration of technology and art. However, there is little research on the application of AI technology in the field of design and design education, so this paper studies the application of generative AI in the teaching of art and design courses. To provide help for the promotion and characteristic development of artificial intelligence technology in art design education in universities. Study artificial intelligence to understand its intelligent dialogue mechanism. Artificial intelligence can support vector machine sorting learning algorithms, transform sorting questions into classification questions, and answer the questioner's questions. The operation mode of generative artificial intelligence technology and its application in the analysis of design teaching needs can allocate the application of creative teaching concept of art design, try to build a high-quality design education system supported by digital technology, promote the implementation of digital strategy of design education, and help realize modern design education in colleges and universities.
+UR  - https://ieeexplore.ieee.org/document/10624638/
 ER  -
 
 TY  - JOUR
-TI  - Integrating Mathematical Thinking, Abstract Thinking, and Computational Thinking
-AU  - Kirby McMaster, Brian Rague, Nicole Anderson
-PY  - 2010
-JF  - Arlington, VA, USA
+TI  - Application of Generative Artificial Intelligence Technology in Customized Learning Path Design: A New Strategy for Higher Education
+AU  - Ying Li, Wei Ji, Jiaqi Liu, Wenqing Li
+PY  - 2024
+JF  - Bhubaneswar, India
 PB  - IEEE
-AB  - In recent years, several groups of Computer Science educators have made a sustained effort to capture the essence of CS apart from programming. Three of these approaches are Mathematical Thinking, Abstract Thinking, and Computational Thinking. Each approach tries to clarify areas of CS that are not directly tied to writing computer programs. In a separate line of research, the current authors have been examining different ways to teach mathematics to CS students. We developed a Computational Math scale that measures the level of problem-solving gestalt exhibited by textbook authors. In this study, we relate our Computational Math framework to current research on Mathematical, Abstract, and Computational (MAC) Thinking. We counted words used frequently in research articles and compared them to words that form the Computational Math scale. Our results suggest an overall MAC Thinking framework that integrates a wide range of topics relevant to computing and programming.
-UR  - https://ieeexplore.ieee.org/document/5673139/
+AB  - In today's rapidly evolving education field, generative artificial intelligence (AI) technology is increasingly becoming a key force in promoting teaching innovation and personalized learning solutions. This article deeply explores the application of generative AI technology in designing customized learning paths in higher education and its profound impact on educational practice. Through specific case analysis, this study reveals how generative AI can effectively analyze students' learning behaviors, preferences, and performance to automatically generate and adjust learning paths in real time, thereby providing students with a highly personalized learning experience. Research results show that using generative AI technology can significantly improve learning efficiency, increase student engagement and satisfaction, and optimize learning outcomes. In addition, this article also demonstrates the ability of generative AI to promote innovation in learning content and teaching methods, improve the efficiency of educational resource utilization, and enhance the adaptability of learning paths. Through these findings, this paper provides valuable insights for higher education institutions, pointing out the importance and feasibility of leveraging generative AI technologies to design personalized learning paths, while highlighting key considerations that should be noted during implementation.
+UR  - https://ieeexplore.ieee.org/document/10734572/
 ER  -
 
 TY  - JOUR
-TI  - The Teaching Mode and Practice Analysis of College Computer Basic Course Based on Computational Thinking
-AU  - Chen Xue, Wang Zhun
-PY  - 2020
-JF  - Xi'an, China
+TI  - Research on Network Security Defense Performance with Artificial Intelligence Methods
+AU  - Chunming Fu, Xiang Zhang, Rui Wang, Leiliang Sun, Changchun Su, Haoxue Min
+PY  - 2025
+JF  - Guilin, China
 PB  - IEEE
-AB  - This paper mainly adopts the theory with practice, combines the computational thinking method with education and teaching, and constructs the inquiry teaching model based on computational thinking. We adopt the formal teaching model and learning model, incremental expression of computational thinking ability to improve the effect, from the computational thinking of automation, abstract characteristics of the teaching and learning model based on computational thinking formalization. Then, in the case study, the learning support technology scheme of MOOC course platform combining mobile terminal and HTML5 is designed. Through teaching practice and quantitative analysis of experimental behavior, the platform effectively avoids the interference of programming language code, which simplifies the expression and application process of algorithm thinking, and enhances students' interest and operation of programming working ability.
-UR  - https://ieeexplore.ieee.org/document/9526726/
+AB  - In response to the problems of high false detection rate, complex computation, difficulty in timely responding and defending against new unknown attacks, and high defense costs in network security defense, a defense method combining network intrusion detection and defense based on artificial intelligence technology is designed. The Wasserstein Generative Adversarial Network model is used for network intrusion detection, and the random gradient descent optimization algorithm is used to train the Wasserstein Generative Adversarial Network model. Finally, the test results of intrusion detection are obtained using Matlab software. The experimental results show that the evaluation values of the proposed detection method are all superior to those of the generative adversarial network model detection method. The accuracy rate has increased by 11.93 percentage points, the precision rate has increased by 9.89 percentage points, the false detection rate has decreased by 4.82 percentage points, the recall rate has increased by 13.57 percentage points, and the F1 score has increased by 12.94 percentage points. The false detection rate and packet rejection rate of the proposed network security defense method are lower, effectively ensuring the security of the network.
+UR  - https://ieeexplore.ieee.org/document/11198719/
+ER  -
+
+TY  - JOUR
+TI  - Application of Generative Artificial Intelligence to Explore the Innovative Path of Teaching Evaluation for Primary School Teachers
+AU  - Yuting Han, Mei Chen
+PY  - 2025
+JF  - Suzhou, China
+PB  - IEEE
+AB  - In the era of rapid development in digital education, generative artificial intelligence is increasingly applied in the field of education. This study focuses on primary school foundational education, comprehensively reviewing relevant literature to analyze its current research and application status in primary school teaching evaluation. It clarifies its significant role and existing issues in evaluation methods, content, and feedback processes. Supported by the concept of integrating learning and evaluation, it explores the pathways for generative AI to assist primary school teachers in innovating teaching evaluations. The research provides practical guidance for primary school teachers to apply generative AI in teaching evaluations, promoting the development of theories and practices in primary school educational assessment. It holds great significance for improving the quality of teaching and fostering the all-round development of primary school students.
+UR  - https://ieeexplore.ieee.org/document/11158572/
+ER  -
+
+TY  - JOUR
+TI  - Generative Artificial Intelligence in Early Childhood Education: A Bibliometric Analysis
+AU  - Yili Shi, Dingchen Sun, Yang Su, Jia Zeng, Qin Wang
+PY  - 2025
+JF  - Haikou, China
+PB  - IEEE
+AB  - Artificial Intelligence (AI) technologies have been applied in various domains. Generative artificial intelligence (generative AI, GAI) is an emerging artificial intelligence method that generates multiple forms of data such as text, images, and videos. For example, using GAI educational technology is a recent significant trend, which has more and more studies of GAI in ECE. However, there is a lack of studies that provide an analysis of the studies of GAI in ECE. In this paper, we provide a bibliometric method to analyze the studies of various topics such as GAI in ECE. Importantly, we released the open-source code to improve the development of bibliometric analysis in various domains. This paper contributes to providing introductory material for beginners to GAI (particularly in ECE), as well as supplementary material for advanced users.
+UR  - https://ieeexplore.ieee.org/document/11189812/
+ER  -
+
+TY  - JOUR
+TI  - Artificial Intelligence in Education - Emerging Trends, Thematic Analysis & Application in Lifelong Learning
+AU  - Vijay Prakash Misra, Punit Kumar Mishra, Adya Sharma
+PY  - 2023
+JF  - Nadi, Fiji
+PB  - IEEE
+AB  - There has been a significant rise in the literature published on Artificial Intelligence in Education in recent times. The scope of the literature is vast, with the emergence of some niche themes that have relevance in lifelong learning. This study aims to analyse the emerging trends and themes in Artificial Intelligence in Education and how they may be useful in lifelong learning. The authors use 280 published pieces of literature from the SCOPUS database from 1976 to 2023 and the quantitative analysis tool Biblioshiny to analyse the data collected. The study shows a sudden surge in the literature on Artificial Intelligence in Education in 2016 and a continued rise since 2020. The study shows six clear clusters that emerge: Artificial Intelligence, Artificial Intelligence in Education, Explartificial Intelligencenable Artificial Intelligence, Artificial Intelligence Literacy, Teachers and Education Technology. Of these, Explartificial Intelligencenable Artificial Intelligence and Education Technology are niche. Artificial Intelligence Literacy and Teachers are emerging or declining themes. ChatGPT and learning clusters have the potential to become motor themes. Artificial Intelligence in Education has very well-developed basic themes. Artificial Intelligence is the emerging motor theme. The trend topics are also evolving at a very fast pace, given the rate of development in AI. The current trend topics include - Chat GPT, Generative Artificial Intelligence, and Ethics. Finally, the study develops a model to show how AI could be useful and an enabler in lifelong learning.
+UR  - https://ieeexplore.ieee.org/document/10487664/
+ER  -
+
+TY  - JOUR
+TI  - Workshop: Educational Innovation Through Generative Artificial Intelligence: Tools, Opportunities, and Challenges
+AU  - Miguel Morales-Chan, Hector R. Amado-Salvatierra, Rocael Hernandez-Rizzardini
+PY  - 2024
+JF  - Guatemala City, Guatemala
+PB  - IEEE
+AB  - The integration of Artificial Intelligence (AI) into the field of education is an unprecedented trend with the potential to revolutionize teaching approaches and significantly improve the overall learning experience. This workshop offers an opportunity for a strategic implementation of generative artificial intelligence in higher education, demonstrating its capacity to substantially enhance the creation and customization of digital educational materials. It is essential for educators to possess the capacity to utilize generative artificial tools, specifically when it comes to developing prompts for Large Language Models (LLMs). In addition to fostering a more interactive learning environment, these LLMs are driving the transition to educational systems that are more autonomous and adaptable. An in-depth exploration of the pragmatic and ethical aspects of AI implementation is undertaken to equip educators with the necessary knowledge and skills to employ AI in a responsible manner, thereby cultivating an engaging and equitable learning environment.
+UR  - https://ieeexplore.ieee.org/document/10500605/
+ER  -
+
+TY  - JOUR
+TI  - Grokking Artificial Intelligence Algorithms
+AU  - 
+PY  - 
+JF  - 
+PB  - IEEE
+AB  - Grokking Artificial Intelligence Algorithms is a fully-illustrated and interactive tutorial guide to the different approaches and algorithms that underpin AI. Written in simple language and with lots of visual references and hands-on examples, you'll learn the concepts, terminology, and theory you need to effectively incorporate AI algorithms into your applications. And to make sure you truly grok as you go, you'll use each algorithm in practice with creative coding exercises--including building a maze puzzle game, performing diamond data analysis, and even exploring drone material optimization.
+UR  - https://ieeexplore.ieee.org/document/10280429/
+ER  -
+
+TY  - JOUR
+TI  - Integrating Generative Artificial Intelligence in Learning Analytics: Insights and Implications From Recent Studies
+AU  - Billy T. M. Wong, Kam Cheong Li, Charlotte S. Y. Chau
+PY  - 2025
+JF  - Bangkok, Thailand
+PB  - IEEE
+AB  - This paper presents a comprehensive review of studies on the application of generative artificial intelligence (AI) in learning analytics. The review encompasses 49 articles sourced from Scopus, spanning the years 2022 to 2024. The results reveal patterns of relevant publications based on regions of authors' affiliations, research methods, research objectives and issues, types of generative AI tools, and purposes of conducting learning analytics. The findings highlight potential directions for future research on the integration of generative AI into learning analytics to address limitations such as the lack of evaluation on the long-term impact on teaching and learning outcomes, ethical considerations, and education inclusivity.
+UR  - https://ieeexplore.ieee.org/document/11113640/
+ER  -
+
+TY  - JOUR
+TI  - Research on Middle School English Writing Teaching Model Assisted by Generative Artificial Intelligence
+AU  - Zhiwei Qi, Yuqing Liu, Wenlin Liu
+PY  - 2025
+JF  - Suzhou, China
+PB  - IEEE
+AB  - The rapid development of generative artificial intelligence technology has accelerated the reform in the field of education and opened up a new development path for English writing teaching in middle schools. However, in the actual teaching process, there are still problems with the rigid application of artificial intelligence and the lack of data support for learning situation analysis. Therefore, exploring the deep integration model of generative artificial intelligence technology and English writing teaching in middle schools is particularly urgent. By the theory of process-genre approach and blended teaching model, we construct a teaching model of middle school English writing assisted by generative artificial intelligence from three dimensions: teaching resources, teaching process and teaching evaluation. This teaching model realizes the enrichment and personalization of teaching resources, integrates generative artificial intelligence into every step of the teaching process, and comprehensively improves the teaching efficiency and quality of English writing in middle school.
+UR  - https://ieeexplore.ieee.org/document/11158028/
+ER  -
+
+TY  - JOUR
+TI  - A Survey on Some Artificial Intelligence Learning Tools at the University of Petra
+AU  - Rami A. Abdel-Rahem, Wael Hadi, Mayyas Al-Remawi, Faisal Aburub, Naser Jamal
+PY  - 2025
+JF  - Amman, Jordan
+PB  - IEEE
+AB  - This research explores the perspectives of 105 instructors from the University of Petra (UOP), specifically from the Faculties of Arts and Science (FAS) and Information Technology (FIT), regarding personalized learning (PL) and generative artificial intelligence (GAI) tools. The study examines instructors' views on the theoretical foundations of these technologies, their perceived need for training in the use of such tools, and their opinions on the benefits of PL in education. The primary objective is to gain insights into faculty members' attitudes toward integrating AI tools into the educational process at UOP. The findings from this survey are expected to inform strategies for enhancing AI adoption in education at UOP and other institutions. This investigation will aid the university in preparing for the emerging era of AI-driven education.
+UR  - https://ieeexplore.ieee.org/document/11013092/
 ER  -
 

@@ -13,7 +13,7 @@ REQ5_DIR = os.path.join(RESULTS_DIR, "requerimiento5")
 
 # Configuración inicial de la página
 st.set_page_config(
-    page_title="Análisis Bibliométrico - Pensamiento Computacional",
+    page_title="Análisis Bibliométrico - Inteligencia Artificial Generativa",
     page_icon="📊",
     layout="wide"
 )
@@ -120,11 +120,11 @@ def display_top_items(label, items, max_items=3):
 # Función principal
 def main():
     # Título principal
-    st.markdown('<div class="main-title">Análisis Bibliométrico<br>Pensamiento Computacional</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-title">Análisis Bibliométrico<br>Inteligencia Artificial Generativa</div>', unsafe_allow_html=True)
     
     # Sección de introducción
     st.write("""
-    Este sistema realiza análisis bibliométrico sobre publicaciones de "Computational Thinking" 
+    Este sistema realiza análisis bibliométrico sobre publicaciones de "generative artificial intelligence" 
     a partir de múltiples bases de datos científicas disponibles en la Universidad del Quindío.
     """)
     

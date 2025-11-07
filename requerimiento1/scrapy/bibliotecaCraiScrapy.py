@@ -77,6 +77,8 @@ class GoogleLoginBibliometricSpider(scrapy.Spider):
 
     def __init__(self, *args, **kwargs):
         super(GoogleLoginBibliometricSpider, self).__init__(*args, **kwargs)
+                #define el tema de búsqueda
+        self.search_query = "generative artificial intelligence"
         
         # Configure Selenium
         chrome_options = webdriver.ChromeOptions()
@@ -101,8 +103,8 @@ class GoogleLoginBibliometricSpider(scrapy.Spider):
             """
         })
         # Credentials
-        self.correo = "correoLog"
-        self.password = "Contraseña"
+        self.correo = "anderson.betancourta@uqvirtual.edu.co"
+        self.password = "1094963718.Aba"
         
         # Ask for export format
         while True:
@@ -134,7 +136,10 @@ class GoogleLoginBibliometricSpider(scrapy.Spider):
             
             # Step 4: Redirect to search page and wait
             time.sleep(10)
-            search_url = "https://research-ebsco-com.crai.referencistas.com/c/q46rpe/search/results?limiters=&q=computational+thinking"
+            self.search_query = "generative artificial intelligence"
+            query = self.search_query.replace(" ", "+")
+            search_url = f"https://research-ebsco-com.crai.referencistas.com/c/q46rpe/search/results?limiters=&q={query}"
+
             self.driver.get(search_url)
             
             # Wait for results to load
@@ -253,11 +258,11 @@ class GoogleLoginBibliometricSpider(scrapy.Spider):
         
         loader.add_value('year', clean_text(year))
 
-        # Abstract
+        # Abstract - el texto inmediatamente después del título "Abstract"
         abstract = selector.xpath(
-            '//*[@id="details-page"]/div[2]/div/div/div/div/section/div/div/div/div/div/div[2]/article/ul[7]/li//text()'
+            '//h3[@id="Ab"]/following-sibling::text()[1] | //h3[@id="Ab"]/following-sibling::*[not(self::h3)][1]//text()'
         ).getall()
-        loader.add_value('abstract', [clean_text(a) for a in abstract])
+        loader.add_value('abstract', [clean_text(a) for a in abstract if a.strip()])
 
         loader.add_value('summary', [clean_text(a) for a in abstract])
 
@@ -307,7 +312,7 @@ class GoogleLoginBibliometricSpider(scrapy.Spider):
             return
 
         # Ruta completa donde quieres guardar el resultado:
-        output_dir = r"C:/Users/erikp/Escritorio/ProyectoAlgoritmos/requerimiento1/scrapy"
+        output_dir = r"/home/betancourt/UQ/Proyecto Analisis/ProyectoAlgoritmos-main/requerimiento1/scrapy"
        # C:\Users\erikp\Escritorio\ProyectoAlgoritmos\requerimiento1\scrapy
         filename = os.path.join(output_dir, f"resultadosBibliotecaCrai.{self.export_format}")
 

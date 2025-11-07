@@ -77,6 +77,8 @@ class BibliometricSpider(scrapy.Spider):
 
     def __init__(self, *args, **kwargs):
         super(BibliometricSpider, self).__init__(*args, **kwargs)
+        #define el tema de búsqueda
+        self.search_query = "generative artificial intelligence"
         while True:
             #choice = input("Selecciona formato de exportación (RIS/BibTeX): ").strip().lower()
             choice = 'ris'
@@ -87,8 +89,11 @@ class BibliometricSpider(scrapy.Spider):
                 print("Formato no válido. Escribe 'RIS' o 'BibTeX'.")
 
     def start_requests(self):
-        url = 'https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&q=computational+thinking'
+        # Construir la URL dinámicamente a partir del término de búsqueda
+        query = self.search_query.replace(" ", "+")
+        url = f'https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&q={query}'
         yield scrapy.Request(url, callback=self.parse)
+
 
     def parse(self, response):
         self.page_count += 1
@@ -167,7 +172,7 @@ class BibliometricSpider(scrapy.Spider):
             return
 
         # Ruta completa donde quieres guardar el resultado:
-        output_dir = r"C:/Users/erikp/Escritorio/ProyectoAlgoritmos/requerimiento1/scrapy"
+        output_dir = r"//home/betancourt/UQ/Proyecto Analisis/ProyectoAlgoritmos-main/requerimiento1/scrapy"
         filename = os.path.join(output_dir, f"resultadosGoogleAcademy.{self.export_format}")
 
         # Asegúrate de que el directorio exista:

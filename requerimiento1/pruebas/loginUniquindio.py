@@ -16,9 +16,9 @@ class GoogleLoginSpider(scrapy.Spider):
         chrome_options.add_argument('--disable-gpu')  # Para evitar el error de GPU
         self.driver = webdriver.Chrome(options=chrome_options)
         
-        # Credenciales (cámbialas por las tuyas)
-        self.correo = "erikp.trivinog@uqvirtual.edu.co"
-        self.password = "Erikpablot18"  # Reemplaza con tu contraseña real
+        # Credenciales de inicio de sesión pagina Uniquindio
+        self.correo = "anderson.betancourta@uqvirtual.edu.co"
+        self.password = "1094963718" 
     
     def parse(self, response):
         self.driver.get(response.url)
@@ -74,9 +74,9 @@ class GoogleLoginSpider(scrapy.Spider):
 
             # Esperar 10 segundos y redirigir a la nueva página
             time.sleep(10)
-            self.driver.get("https://research-ebsco-com.crai.referencistas.com/c/q46rpe/search/results?limiters=&q=computational+thinking")
+            self.driver.get("https://research-ebsco-com.crai.referencistas.com/c/q46rpe/search/results?limiters=&q=generative+artificial+intelligence")
             
-            
+              
         except Exception as e:
             self.logger.error(f"Error al ingresar contraseña: {str(e)}")
             raise

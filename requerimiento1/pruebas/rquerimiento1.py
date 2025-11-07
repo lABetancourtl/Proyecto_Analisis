@@ -647,7 +647,7 @@ def main():
     print("2. Unifica los resultados eliminando duplicados")
     print("3. Genera dos archivos: unificado y duplicados\n")
     
-    query = input("Ingrese el término de búsqueda (ej: 'computational thinking'): ").strip()
+    query = input("Ingrese el término de búsqueda (ej: 'generative artificial intelligence'): ").strip()
     
     database_urls = {
         'Scopus': 'https://www.scopus.com/results/results.uri?query={query}',

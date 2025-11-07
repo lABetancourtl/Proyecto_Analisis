@@ -43,6 +43,9 @@ class IEEEXploreSpider(scrapy.Spider):
 
     def __init__(self, *args, **kwargs):
         super(IEEEXploreSpider, self).__init__(*args, **kwargs)
+        # define el término de búsqued
+        self.search_query = "generative artificial intelligence" 
+
         
         chrome_options = Options()
         #chrome_options.add_argument('--headless=new')  # Ejecuta sin ventana. NO SIRVE
@@ -77,8 +80,11 @@ class IEEEXploreSpider(scrapy.Spider):
                 print("Formato no válido. Escribe 'RIS' o 'BibTeX'.")
 
     def start_requests(self):
-        url = 'https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=computational%20thinking'
+        # Construye la URL dinámicamente a partir del término de búsqueda
+        query = self.search_query.replace(" ", "%20")
+        url = f'https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText={query}'
         yield scrapy.Request(url, callback=self.parse_search_results)
+
 
     def parse_search_results(self, response):
         print(f"\nProcesando página horizontal {self.current_horizontal_page} de {self.max_horizontal_pages}")
@@ -225,7 +231,7 @@ class IEEEXploreSpider(scrapy.Spider):
         self.driver.quit()
 
         # Directorio destino (ruta cruda para Windows)
-        output_dir = r"C:/Users/erikp/Escritorio/ProyectoAlgoritmos/requerimiento1/scrapy"
+        output_dir = r"/home/betancourt/UQ/Proyecto Analisis/ProyectoAlgoritmos-main/requerimiento1/scrapy"
         # Construye nombre completo de archivo
         filename = os.path.join(output_dir, f"resultadosIeeexplore.{self.export_format}")
 

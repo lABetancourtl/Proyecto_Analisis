@@ -35,7 +35,7 @@ wordcloud = WordCloud(width=800, height=400, background_color='white').generate(
 plt.figure(figsize=(10, 5))
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis("off")
-plt.title("Nube de palabras de títulos (Computational Thinking)")
+plt.title("Nube de palabras de títulos (generative artificial intelligence)")
 plt.savefig("nube_palabras.png")  # Guardar imagen
 plt.show()
 
@@ -71,7 +71,7 @@ pos = nx.spring_layout(G, k=0.3)
 nx.draw_networkx_nodes(G, pos, node_size=200, node_color='lightblue')
 nx.draw_networkx_edges(G, pos, width=1.5, alpha=0.5)
 nx.draw_networkx_labels(G, pos, font_size=8, font_family='sans-serif')
-plt.title("Red de coautoría en Computational Thinking")
+plt.title("Red de coautoría en generative artificial intelligence")
 plt.axis("off")
 plt.savefig("red_coautoria.png")  # Guardar gráfico
 plt.show()

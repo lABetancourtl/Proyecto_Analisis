@@ -1,1000 +1,500 @@
 TY  - JOUR
-TI  - [LIBRO] [B] Report of a workshop on the pedagogical aspects of computational thinking
-AU  - ... for the Workshops on  Computational Thinking
-PY  - 2011
-JF  - books.google.com
-PB  - books.google.com
-N2  - ... practices for improving computational thinking in K-12 education? * What are some examples of computational thinking and how, if at all, does computational thinking vary by discipline ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking and thinking about computing
-AU  - JM Wing
-PY  - 2008
-JF  - royalsocietypublishing.org
-PB  - ... Transactions of the Royal Society A ...
-N2  - ... Computational thinking is a kind of analytical thinking . It shares with mathematical thinking ... It shares with engineering thinking in the general ways in which we might approach designing ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking
-AU  - JM Wing
-PY  - 2006
-JF  - dl.acm.org
-PB  - Communications of the ACM
-N2  - ... Computational thinking is a fundamental skill for everyone, not just for computer scientists. To reading, writing, and arithmetic, we should add computational thinking to every child's ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Demystifying computational thinking
-AU  - VJ Shute, C Sun
-PY  - 2017
-JF  - Elsevier
-PB  - Clarke  - Educational research review
-N2  - ... This paper examines the growing field of computational thinking (CT) in education. A review ... This definition highlights that CT is primarily a way of thinking and acting, which can be ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [LIBRO] [B] Report of a workshop on the scope and nature of computational thinking
-AU  - ... for the Workshops on  Computational Thinking
-PY  - 2010
-JF  - books.google.com
-PB  - books.google.com
-N2  - ... computational thinking . Although this document was prepared by the Committee for the Workshops on Computational Thinking ... of perspectives on computational thinking , raises issues ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking
-AU  - PB Henderson, TJ Cortina
-PY  - 2007
-JF  - dl.acm.org
-PB  - Proceedings of the 38th SIGCSE ...
-N2  - ... computational thinking , followed naturally by arithmetic computation and abstract levels of symbol based thinking , ... Counting, arithmetic, symbols and abstract thinking are fundamental to ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - An overview of computational thinking
-AU  - FK Cansu, SK Cansu
-PY  - 2019
-JF  - ijcses.org
-PB  - ... Journal of Computer Science Education in ...
-N2  - ... of computational thinking . This study aims to first define the concept of computational thinking by ... of computational thinking and contemporary research on these elements. Keywords: ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [LIBRO] [B] Computational thinking
-AU  - PJ Denning, M Tedre
-PY  - 2019
-JF  - books.google.com
-PB  - books.google.com
-N2  - This pocket-sized introduction to computational thinking and problem-solving traces its genealogy centuries before the digital computer. A few decades into the digital era, scientists ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [LIBRO] [B] Computational Thinking : A beginners guide to problem solving and programming
-AU  - K Beecher
-PY  - 2017
-JF  - yourbookshelf.net
-PB  - yourbookshelf.net
-N2  - ... PART I COMPUTATIONAL THINKING The first part of this book introduces computational thinking as an approach to problem-solving. It introduces the basic concepts and helps the ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Thinking about computational thinking
-AU  - JJ Lu, GHL Fletcher
-PY  - 2009
-JF  - dl.acm.org
-PB  - Proceedings of the 40th ACM technical ...
-N2  - ... Analogously, we believe the same dichotomy exists between computational thinking , as a ... FOR THINKING COMPUTATIONALLY We need to start teaching computational thinking early ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking
-AU  - P Curzon, T Bell
-PY  - 2019
+TI  - Generative artificial intelligence
+AU  - L Banh, G Strobel
+PY  - 2023
 JF  - Springer
-PB  - The Cambridge handbook of ...
-N2  - In nur wenigen Jahrzehnten hat das ,, Computational Thinking ", also das analytische, von Algorithmen gepragte Denken unser Leben, Arbeiten und Spielen von Grund auf verandert. ...
+PB  - Electronic Markets
+N2  - ... of generative AI undefined. To overcome that shortcoming, this article provides an introduction to the fundamentals of generative ... foundation leading toward generative AI in combination ...
 AB  - 
 ER  -
 
 TY  - JOUR
-TI  - [PDF] [PDF] Computational thinking
-AU  - MW Jeannette
-PY  - 2006
-JF  - cs.ucdavis.edu
-PB  - Communications of the ACM
-N2  - Web pages, a strategy for winning a game, or a counterexample. Computational thinking is using massive amounts of data to speed up computation . It is making trade-offs between time ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computation and computational thinking
-AU  - AV Aho
-PY  - 2012
-JF  - ieeexplore.ieee.org
-PB  - The computer journal
-N2  - ... COMPUTATIONAL THINKING We consider computational thinking to be the thought processes involved in formulating problems so their solutions can be represented as computational ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Editorial computational thinking
-AU  - FJ Garcia-Penalvo
-PY  - 2018
-JF  - ieeexplore.ieee.org
-PB  - Penalvo - IEEE Revista Iberoamericana de ...
-N2  - ... devoted entirely to the topic of " Computational thinking " [item 7) in ... computational thinking effects in preuniversity education" [item 8) in the Appendix]. In addition, computational thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [PDF] [PDF] Computational thinking
-AU  - E Hunsaker
-PY  - 2020
-JF  - ... .s3.us-west-2.amazonaws.com
-PB  - The K-12 educational technology ...
-N2  - ... One approach to teaching these skills is to teach computational thinking (CT). CT is particularly useful for the computer age, because it not only teaches critical thinking but also focuses ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [LIBRO] [B] Computational thinking education
-AU  - SC Kong, H Abelson
-PY  - 2019
-JF  - library.oapen.org
-PB  - library.oapen.org
-N2  - This This book is open access under a CC BY 4.0 license. This book offers a comprehensive guide, covering every important aspect of computational thinking education. It provides an in...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [HTML] [HTML] Computational thinking
-AU  - EK Khenner
-PY  - 2016
-JF  - edscience.ru
-PB  - The Education and science journal
-N2  - Abstract. The aim of the research is to draw attention of the educational community to the phenomenon of computational thinking which actively discussed in the last decade in the ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [PDF] [PDF] From computational thinking to computational action
-AU  - M Tissenbaum, J Sheldon
-PY  - 2019
-JF  - dl.acm.org
-PB  - Communications of the ACM
-N2  - ... In this Viewpoint, we outline two key dimensions of computational action-- computational identity and digital empowerment--and further argue that by focusing on computational ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [PDF] [PDF] Computational thinking is pervasive
-AU  - A Bundy
-PY  - 2007
-JF  - research.ed.ac.uk
-PB  - Journal of Scientific and Practical Computing
-N2  - ... in our Computational Thinking seminars: the infiltration of computational metaphors into ... These are just a few of the many talks in our Computational Thinking seminars, but they are ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking in K-9 education
-AU  - L Mannila, V Dagiene
-PY  - 2014
-JF  - dl.acm.org
-PB  - Proceedings of the ...
-N2  - ... In this paper, we focus on computational thinking (CT) and different aspects of introducing it in the K-9 curriculum. CT is a term encompassing a set of concepts and thought processes ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [PDF] [PDF] Experiences in learning problem-solving through computational thinking
-AU  - JM Fernandez, ME Zuniga
-PY  - 2018
-JF  - redalyc.org
-PB  - Journal of Computer ...
-N2  - ... proposals with the aim of introducing computational thinking to the problem solving issue. ... is necessary for those careers having computational problems solving and/or programming ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [CITAS] [C] Computational thinking benefits society
-AU  - JM Wing
-PY  - 2014
-JF  - Academic Press New York, NY, USA
-PB  - 40th anniversary blog of social issues ...
-N2  - 
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking : the developing definition
-AU  - C Selby, J Woollard
-PY  - 2013
-JF  - eprints.soton.ac.uk
-PB  - eprints.soton.ac.uk
-N2  - ... Since Jeanette Wing's use of the term computational thinking ... Perhaps focus should be on how computational thinking is ... surrounding a definition of computational thinking , this review ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - From computational thinking to computational participation in K--12 education
-AU  - YB Kafai
-PY  - 2016
-JF  - dl.acm.org
-PB  - Communications of the ACM
-N2  - ... Computational thinking should be reframed as com- ... It equips designers, educators, and researchers to broaden and deepen computational thinking on a larger scale than ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking education: Issues and challenges
-AU  - C Angeli, M Giannakos
-PY  - 2020
-JF  - Elsevier
-PB  - Computers in human behavior
-N2  - ... final assessment of children's computational thinking skills. Also, ... inform the teaching of computational thinking skills. In addition, ... set of computational thinking skills, and not only coding. ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - From computational thinking to computational making
-AU  - JA Rode, A Weibert
-PY  - 2015
-JF  - dl.acm.org
-PB  - Proceedings of the ...
-N2  - ... computational thinking . Finally, we show that additional skills are needed beyond computational thinking to ... these skills and present the set with a new concept of computational making. ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [PDF] [PDF] Research notebook: Computational thinking --What and why
-AU  - J Wing
-PY  - 2011
-JF  - openlab.bmcc.cuny.edu
-PB  - The link magazine
-N2  - ... Computational thinking is the thought processes involved in formulating problems ... computational thinking describes the mental activity in formulating a problem to admit a ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - The profession of IT Beyond computational thinking
-AU  - PJ Denning
-PY  - 2009
-JF  - dl.acm.org
-PB  - Communications of the ACM
-N2  - ... [We] advocate for the widespread use of computational thinking to improve people's lives." Computational thinking is seen by its adherents as a novel way to say what the core of the ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking for teacher education
-AU  - A Yadav, C Stephenson
-PY  - 2017
-JF  - dl.acm.org
-PB  - Communications of the ACM
-N2  - ... Here, we argue that, given the crossdisciplinary nature of computational thinking and the need to address educational reforms--Next Generation Science Standards and Common ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking -A guide for teachers
-AU  - A Csizmadia, P Curzon
-PY  - 2015
-JF  - eprints.soton.ac.uk
-PB  - eprints.soton.ac.uk
-N2  - ... Computational Thinking has become the buzz term for many ... At the heart of the new curriculum is computational thinking ... framework for understanding computational thinking in the new ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational what? Relating computational thinking to teaching
-AU  - U Kale, M Akcaoglu
-PY  - 2018
-JF  - Springer
-PB  - TechTrends
-N2  - ... of computational thinking to their ... of computational thinking , and the methods of teaching problem-solving for enabling teachers to make the connections between computational thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational Thinking Patterns.
-AU  - A Ioannidou, V Bennett
-PY  - 2011
-JF  - ERIC
-PB  - Online Submission
-N2  - ... We consider the ability to measure and compute computational thinking through Computational Thinking Patterns, as an important breakthrough. Given the pending suspicion towards ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - The long quest for computational thinking
-AU  - M Tedre, PJ Denning
-PY  - 2016
-JF  - dl.acm.org
-PB  - Proceedings of the 16th Koli Calling international ...
-N2  - ... the broad and deep history of computational thinking , or risk repeating already ... thinking and practicing, educational research and efforts in computing, and emergence of computational ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Introducing computational thinking in education courses
-AU  - A Yadav, N Zhou
-PY  - 2011
-JF  - dl.acm.org
-PB  - Proceedings of the 42nd ...
-N2  - ... As computational thinking becomes a fundamental skill for ... tion and evaluation of a computational thinking module in a ... and understanding of computational thinking . The results ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking for youth in practice
-AU  - I Lee, F Martin
-PY  - 2011
-JF  - dl.acm.org
-PB  - Acm Inroads
-N2  - ... on thinking like a computer scientist in college and beyond. Specifically, we offer examples of what computational thinking ... commonalities in the nature of youth's computational thinking . ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking and literacy
-AU  - SR Jacob, M Warschauer
-PY  - 2018
-JF  - escholarship.org
-PB  - Journal of Computer Science ...
-N2  - ... of computational thinking in the literature is sparse. One purpose of this article is to ... computational thinking as a new form of literacy by integrating well-known literature on ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking is more about thinking than computing
-AU  - Y Li, AH Schoenfeld
-PY  - 2020
-JF  - Springer
-PB  - Journal for STEM ...
-N2  - ... concept of computational thinking is arguably ... computational thinking to discuss it as a multi-faceted theoretical nature. We further present computational thinking , as a model of thinking , ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking tools
-AU  - A Repenning, A Basawapatna ...
-PY  - 2016
-JF  - ieeexplore.ieee.org
-PB  - 2016 IEEE symposium ...
-N2  - ... computational thinking . As these tools evolved a philosophy emerged to support Computational Thinking ... Chief among these findings is that supporting Computational Thinking is much ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking in science
-AU  - PJ Denning
-PY  - 2017
-JF  - degruyter.com
-PB  - American Scientist
-N2  - ... computation as part of STEM (science, technology, engineering, and mathematics) education. If we can learn what constitutes computational thinking ... just what computational thinking is. ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - On computational thinking and STEM education
-AU  - Y Li, AH Schoenfeld
-PY  - 2020
-JF  - Springer
-PB  - Journal for STEM ...
-N2  - ... 2020a), we discussed computational thinking (CT) as a model of thinking that is important to ... Based on our proposal that CT should emphasize thinking as part of the problem-solving ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [PDF] [PDF] Computational thinking
-AU  - J Wing
-PY  - 2009
-JF  - algorithmsun.wordpress.com
-PB  - Journal of computing sciences in colleges
-N2  - ... * Computational thinking will be a fundamental skill used by everyone in the world by the middle of the 21st Century. ... - It's not just the software and hardware that touch our daily ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - The present and future of computational thinking
-AU  - O Astrachan, S Hambrusch
-PY  - 2009
-JF  - dl.acm.org
-PB  - ACM SIGCSE Bulletin
-N2  - ... at how computational thinking has transformed the world. But it is not computational thinking that we study, it is the products and methodologies of those who have done the thinking and ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking : A digital age skill for everyone.
-AU  - D Barr, J Harrison
-PY  - 2011
-JF  - ERIC
-PB  - Learning & Leading with Technology
-N2  - ... examples of computational thinking tied to current ... a common language surrounding computational thinking , articulate ... and strategies for moving computational thinking from concept to ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking in K-12: In-service teacher perceptions of computational thinking
-AU  - P Sands, A Yadav
-PY  - 2018
-JF  - Springer
-PB  - Computational thinking  in the STEM ...
-N2  - ... in-service teachers perceive computational thinking within elementary and secondary ... computational thinking practices. We also discuss specific areas within the computational thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking in K-12: A review of the state of the field
-AU  - S Grover, R Pea
-PY  - 2013
-JF  - journals.sagepub.com
-PB  - Educational researcher
-N2  - ... Jeannette Wing's influential article on computational thinking ... What is computational thinking ? Why did this article resonate ... current state of discourse on computational thinking in K-12 ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Recognizing computational thinking patterns
-AU  - A Basawapatna, KH Koh
-PY  - 2011
-JF  - dl.acm.org
-PB  - Proceedings of the ...
-N2  - ... learn " Computational Thinking " [7]. However, the definition of Computational Thinking at the ... In other words, for Computational Thinking to become a notion that is actionable, teachers ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Robotics and computational thinking in primary school
-AU  - C Chalmers
-PY  - 2018
-JF  - Elsevier
-PB  - International Journal of Child-Computer Interaction
-N2  - ... However, the literature on implementing computational thinking in primary schools is limited ... introduce computational thinking concepts and how children learn computational thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Which cognitive abilities underlie computational thinking ? Criterion validity of the Computational Thinking Test
-AU  - M Roman-Gonzalez, JC Perez-Gonzalez ...
-PY  - 2017
-JF  - Elsevier
-PB  - Gonzalez ,  JC Perez-Gonzalez ... - Computers in human ...
-N2  - Computational thinking (CT) is being located at the focus of educational innovation, as a set of problem-solving skills that must be acquired by the new generations of students to thrive ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking in elementary and secondary teacher education
-AU  - A Yadav, C Mayfield
-PY  - 2014
-JF  - dl.acm.org
-PB  - ACM Transactions on ...
-N2  - ... Computational thinking (CT) is broadly defined as the mental ... and introducing computational thinking modules and ... Results demonstrate that introducing computational thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking : A disciplinary perspective
-AU  - PJ Denning, M Tedre
-PY  - 2021
-JF  - ceeol.com
-PB  - Informatics in Education
-N2  - ... Computational Thinking : A Disciplinary Perspective ... Our objective in this essay is to describe computational thinking ... CT does not describe ways of thinking and practicing of professional ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Bringing computational thinking to STEM education
-AU  - SI Swaid
-PY  - 2015
-JF  - Elsevier
-PB  - Procedia Manufacturing
-N2  - ... based strategy is adopted to enforce thinking computationally ... to efforts to establish computational thinking as a universally ... for researchers interested in Computational Thinking and ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [PDF] [PDF] Do we really need computational thinking ?
-AU  - E Nardelli
-PY  - 2019
-JF  - dl.acm.org
-PB  - Communications of the ACM
-N2  - ... The focus of this Viewpoint is to discuss to what extent we need the expression " computational thinking " (CT). The term was already known through the work of Seymour Papert,13 many ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking today
-AU  - S Grover
-PY  - 2021
-JF  - taylorfrancis.com
-PB  - Computational thinking  in education
-N2  - This chapter reflects on where computational thinking (CT) is today - from growing recognition as an idea and 21st-century skill in the mainstream, to a widely-acknowledged part of ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - A revaluation of computational thinking in K-12 education: Moving toward computational literacies
-AU  - YB Kafai, C Proctor
-PY  - 2022
-JF  - journals.sagepub.com
-PB  - Educational Researcher
-N2  - ... can become a centerpiece in promoting computational literacies relevant to K-12 ... when computational thinking is promoted, and how we can ensure that the purposes of computational ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [PDF] [PDF] Computational thinking : A 21st century skill
-AU  - Y Tabesh
-PY  - 2017
-JF  - ioi.te.lv
-PB  - Olympiads in Informatics
-N2  - ... pillars of computational thinking and present practical suggestions, namely computational mathematics and artificial intelligence labs, as platforms for developing computational thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Refining an understanding of computational thinking
-AU  - C Selby, J Woollard
-PY  - 2014
-JF  - eprints.soton.ac.uk
-PB  - eprints.soton.ac.uk
-N2  - ... This paper identifies aspects of computational thinking and ... Since Jeanette Wing's use of the term computational thinking ... of the elements of computational thinking need to be identified. ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - A pedagogical framework for computational thinking
-AU  - D Kotsopoulos, L Floyd
-PY  - 2017
-JF  - Springer
-PB  - Digital experiences in ...
-N2  - ... Our goal in this paper is to propose a Computational Thinking Pedagogical Framework (CTPF), developed from constructionism and social-constructivism theories. CTPF includes four ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Trends and development in research on computational thinking
-AU  - M Tekdal
-PY  - 2021
-JF  - Springer
-PB  - Education and Information Technologies
-N2  - ... As computational thinking (CT) has gained more attention as a research topic in the recent ... The findings of the study showed that (1) the research on computational thinking is an ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - A framework for computational thinking across the curriculum
-AU  - L Perkovic, A Settle
-PY  - 2010
-JF  - dl.acm.org
-PB  - Proceedings of the fifteenth ...
-N2  - ... a framework for implementing computational thinking in a ... computational thinking into their own general education courses. The framework includes examples of computational thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Defining computational thinking for mathematics and science classrooms
-AU  - D Weintrop, E Beheshti
-PY  - 2016
-JF  - Springer
-PB  - Journal of science ...
-N2  - ... computational thinking instructional materials. This work was undertaken as part of a larger effort to infuse computational thinking ... of embedding computational thinking in mathematics ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Problem solving in the context of computational thinking
-AU  - S Maharani, MN Kholid
-PY  - 2019
-JF  - e-journal.stkipsiliwangi.ac.id
-PB  - Infinity ...
-N2  - ... movement to incorporate computational thinking into the ... problem solving and computational thinking . This research was ... with the steps of computational thinking . The method used in ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Teaching Computational Thinking to Elglish Leanrers
-AU  - S Jacob, H Nguyen
-PY  - 2018
-JF  - escholarship.org
-PB  - Grehl ... - NYS Tesol ...
-N2  - ... computational thinking to English learners. In this paper, we first review what computational thinking ... challenges faced in teaching computational thinking to speakers of English as a ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [PDF] [PDF] Education paving the way for computational thinking
-AU  - M Guzdial
-PY  - 2008
-JF  - dl.acm.org
-PB  - Communications of the ACM
-N2  - ... Both Miller's and Pane's results encourage us to think how we might design languages for novices that play to their natural ways of thinking about specifying computation , like the use of ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking , between Papert and Wing
-AU  - M Lodi, S Martini
-PY  - 2021
-JF  - Springer
-PB  - Science & education
-N2  - ... : scientists exploit computational tools, "... computational thinking " is defined as a "practice of science and engineering." In that context, mathematical thinking and computational thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking
-AU  - O Hazzan, N Ragonis
-PY  - 2020
-JF  - Springer
-PB  - Guide to Teaching ...
-N2  - ... done worldwide in promoting computational thinking skills in ... thinking skills in general and computational thinking in particular. Studies show that the pedagogy of computational thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Scaffolding computational thinking with ChatGPT
-AU  - J Liao, L Zhong
-PY  - 2024
-JF  - ieeexplore.ieee.org
-PB  - IEEE Transactions on ...
-N2  - ... framework of computational thinking and scaffolding. A mixed-... in improving their computational thinking generally but not ... aim of improving student computational thinking , especially ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking : what it might mean and what we might do about it
-AU  - C Hu
-PY  - 2011
-JF  - dl.acm.org
-PB  - Proceedings of the 16th annual joint conference on ...
-N2  - ... to discuss what computational thinking is from attendees' own experiences and how it impacts upon our everyday lives. Some participants believed that computational thinking helps ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Exploring issues about computational thinking in higher education
-AU  - BC Czerkawski, EW Lyman
-PY  - 2015
-JF  - Springer
-PB  - TechTrends
-N2  - ... in other disciplines was more scattered; use of computational methods or modeling ... computational thinking directly, whenever possible. Our preferred definition of computational thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [HTML] [HTML] A systematic review of integrating computational thinking in early childhood education
-AU  - J Su, W Yang
+TI  - [HTML] [HTML] Generative artificial intelligence in the metaverse era
+AU  - Z Lv
 PY  - 2023
 JF  - Elsevier
-PB  - Computers and Education Open
-N2  - ... and learning of computational thinking in early childhood ... early concepts and skills of computational thinking , as well as other ... of computational thinking ; (2) a lack of valid and reliable ...
+PB  - Cognitive Robotics
+N2  - Generative artificial intelligence (AI) is a form of AI that can autonomously generate new content, such as text, images, audio, and video. Generative ... applications of generative AI in the ...
 AB  - 
 ER  -
 
 TY  - JOUR
-TI  - [PDF] [PDF] Computational thinking : The skill set of the 21st century
-AU  - DM Mohaghegh, M McCauley
-PY  - 2016
-JF  - researchbank.ac.nz
-PB  - researchbank.ac.nz
-N2  - ... an introduction to computational thinking as a term, ... of computational thinking in general, and areas in which it may be applied. We also explore the importance of computational thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [CITAS] [C] Computational thinking : A competency whose time has come
-AU  - S Grover, R Pea
-PY  - 2018
-JF  - S Grover ,  R Pea  - Computer science education: Perspectives on teaching ..., 2018
-PB  - 
-N2  - 
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Real time assessment of computational thinking
-AU  - KH Koh, A Basawapatna
-PY  - 2014
-JF  - ieeexplore.ieee.org
-PB  - ... IEEE Symposium on ...
-N2  - ... The emphasis on computational thinking makes our system unique in the realm of real-time in-class assessment tools. There are many attempts at real-time assessment that focus both ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [PDF] [PDF] Why computational thinking should be integrated into the curriculum
-AU  - JA Qualls, LB Sherrell
-PY  - 2010
-JF  - researchgate.net
-PB  - Journal of Computing Sciences in ...
-N2  - ... 's article provides a grand vision for computational thinking . ... What kinds of tools can make computational thinking most ... in an effort to incorporate computational thinking into curricula. Tri-...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - A K-6 computational thinking curriculum framework: Implications for teacher knowledge
-AU  - C Angeli, J Voogt
-PY  - 2016
-JF  - JSTOR
-PB  - Journal of Educational ...
-N2  - ... 2006), the teaching of computational thinking , as a basic skill ... abstract, algorithmic and logical thinking , and be prepared to ... of thinking about problems, namely computational thinking , ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - A model for developing computational thinking skills
-AU  - T Palts, M Pedaste
-PY  - 2020
-JF  - ceeol.com
-PB  - Informatics in Education
-N2  - ... The reflection on computational thinking (CT) started from thinking about the way computer ... Seymour Papert (1996) suggested a goal of introducing computational thinking by using a ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Problem solving and computational thinking in a learning environment
-AU  - MG Voskoglou, S Buckley
-PY  - 2012
-JF  - arxiv.org
-PB  - arXiv preprint arXiv:1212.0750
-N2  - ... Computational thinking is a new problem solving method ... It synthesizes critical thinking and existing knowledge and ... computational and critical thinking , the two modes of thinking in ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Teaching how to teach computational thinking
-AU  - A Lamprou, A Repenning
-PY  - 2018
-JF  - dl.acm.org
-PB  - Proceedings of the 23rd Annual ACM ...
-N2  - ... Computational Thinking (CT) is described as a key skill for ... "We had hoped that Computational Thinking skills would be ... of specific tools, so called Computational Thinking (CT) Tools [16]...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - CTArcade: Computational thinking with games in school age children
-AU  - TY Lee, ML Mauriello
-PY  - 2014
-JF  - Elsevier
-PB  - International Journal of Child ...
-N2  - ... thinking activities that are built from their tacit knowledge and excitement about game play. This paper describes our approach to teaching computational thinking ... algorithmic thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking in mathematics teacher education
-AU  - G Gadanidis, R Cendros
-PY  - 2017
-JF  - learntechlib.org
-PB  - Contemporary Issues in ...
-N2  - ... their need to develop " computational thinking pedagogical capabilities - understanding of ... we develop teachers' understanding of computational thinking in the context of the subject ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Integrating computational thinking across the K--8 curriculum
-AU  - I Lee, F Martin
-PY  - 2014
-JF  - dl.acm.org
-PB  - Acm Inroads
-N2  - ... Computational thinking is a key skill in the realm of solving unstructured problems, ... This paper aims to help K-8 educators and the public at large understand how computational thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - A systematic review of computational thinking in science classrooms
-AU  - AA Ogegbo, U Ramnarain
-PY  - 2022
-JF  - Taylor & Francis
-PB  - Studies in Science Education
-N2  - ... of computational thinking within science classrooms. We also give an overview of how computational thinking ... tools available for teaching computational thinking in science instruction. ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - A new perspective on computational thinking
-AU  - O Yasar
-PY  - 2018
-JF  - dl.acm.org
-PB  - Communications of the ACM
-N2  - ... Electronic machines have since taken many complex and voluminous computations off our brains, further supporting the view of brain as a biological computational device.Unfortunately ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Ubiquity symposium: Computation and computational thinking
-AU  - AV Aho
-PY  - 2011
-JF  - dl.acm.org
-PB  - Ubiquity
-N2  - ... We consider computational thinking to be the thought processes involved in formulating problems so their solutions can be represented as computational steps and algorithms. An ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking : Panorama of the Americas
-AU  - C Brackmann, D Barone
-PY  - 2016
-JF  - ieeexplore.ieee.org
-PB  - ... on computers in ...
-N2  - Computers cause an impact in almost every single aspect of our lives, however, unfortunately, schools have not been able to keep up with this irreversible evolution. The simple use of ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking as an emerging competence domain
-AU  - A Yadav, J Good
-PY  - 2017
-JF  - Springer
-PB  - ... : Bridging the worlds of work and ...
-N2  - ... computational thinking competencies in children and youth. Specifically, we provide examples of how computational thinking ... We also discuss how computational thinking ideas are ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking in life science education
-AU  - A Rubinstein, B Chor
-PY  - 2014
-JF  - journals.plos.org
-PB  - PLoS  computational  biology
-N2  - ... to explicitly reflect upon computational thinking processes, resisting ... computational thinking processes. This paper deals with the challenges and considerations of such computational ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - A multidisciplinary approach towards computational thinking for science majors
-AU  - S Hambrusch, C Hoffmann
-PY  - 2009
-JF  - dl.acm.org
-PB  - ACM Sigcse ...
-N2  - ... to Computational Thinking " taken by ... computational thinking via basic programming concepts, data management concepts, simulation, and visualization. Problems with a computational ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Computational thinking for teachers: Development of a localised E-learning system
-AU  - LL Ung, J Labadin
-PY  - 2022
-JF  - Elsevier
-PB  - Computers & Education
-N2  - ... of understanding of computational thinking skills in general ... system to train computational thinking skills among teachers. ... framework to present computational thinking teaching-learning ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [PDF] [PDF] Developing computational thinking in compulsory education
-AU  - S Bocconi, A Chioccariello
-PY  - 2016
-JF  - academia.edu
-PB  - ... , JRC Science for ...
-N2  - In the past decade, Computational Thinking (CT) and related concepts (eg coding, programing, algorithmic thinking ) have received increasing attention in the educational field. This has ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [LIBRO] [B] From computing to computational thinking
-AU  - PS Wang
-PY  - 2017
-JF  - taylorfrancis.com
-PB  - taylorfrancis.com
-N2  - Computational Thinking (CT) involves fundamental concepts and reasoning, distilled from computer science and other computational sciences, which become powerful general mental ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [PDF] [PDF] Computational thinking unplugged
-AU  - M Zapata-Ros
-PY  - 2019
-JF  - gredos.usal.es
-PB  - Ros  - Education in the Knowledge Society
-N2  - The idea of computational thinking unplugged refers to a set of activities that are developed to encourage children skills that can be recalled later, to promote computational thinking . ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - Learning computational thinking without a computer: How computational participation happens in a computational thinking board game
-AU  - WC Kuo, TC Hsu
-PY  - 2020
-JF  - Springer
-PB  - The Asia-Pacific Education Researcher
-N2  - ... This study utilized unplugged computational thinking learning material ... in computational thinking , and to explore its impact on students' learning achievements of computational thinking ...
-AB  - 
-ER  -
-
-TY  - JOUR
-TI  - [PDF] [PDF] From Computational Thinking to AI Thinking [A letter from the editor]
-AU  - D Zeng
+TI  - Generative artificial intelligence
+AU  - T van der Zant, M Kouw
 PY  - 2013
+JF  - Springer
+PB  - ... and theory of  artificial intelligence
+N2  - The closed systems of contemporary Artificial Intelligence do not seem to lead to intelligent machines in the near future. What is needed are open-ended systems with non-linear ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - [HTML] [HTML] A primer on generative artificial intelligence
+AU  - F Kalota
+PY  - 2024
+JF  - mdpi.com
+PB  - Education Sciences
+N2  - ... With a basic understanding of artificial intelligence , machine learning , and deep learning, ... : generative artificial intelligence (Gen-AI). In the most simplistic terms, the word " generative " ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence : a systematic review and applications
+AU  - SS Sengar, AB Hasan
+PY  - 2025
+JF  - Springer
+PB  - Multimedia Tools and ...
+N2  - ... In this paper, we outline the most recent research and advancement in the field of Generative Artificial Intelligence . It details the approach used to navigate and analyze cutting-edge ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence : Trends and prospects
+AU  - M Jovanovic, M Campbell
+PY  - 2022
+JF  - computer.org
+PB  - Computer
+N2  - ... Generative artificial intelligence can make powerful artifacts when used at scale, but developing trust in these artifacts and controlling their creation are essential for user ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Education in the era of generative artificial intelligence (AI): Understanding the potential benefits of ChatGPT in promoting teaching and learning
+AU  - D Baidoo-Anu, LO Ansah
+PY  - 2023
+JF  - dergipark.org.tr
+PB  - Anu ,  LO Ansah  - Journal of AI
+N2  - ... like generative artificial intelligence (AI) (Hu, 2022). Generative modeling artificial intelligence (GAI) is an unsupervised or partially supervised machine learning framework, which ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Artificial intelligence in developing countries: The impact of generative artificial intelligence (AI) technologies for development
+AU  - NR Mannuru, S Shahriar
+PY  - 2025
+JF  - journals.sagepub.com
+PB  - Information ...
+N2  - ... This paper explores the potential impact of Generative Artificial Intelligence ( Generative AI) on developing countries, considering both positive and negative effects across various ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Experimental evidence on the productivity effects of generative artificial intelligence
+AU  - S Noy, W Zhang
+PY  - 2023
+JF  - science.org
+PB  - Science
+N2  - ... We examined the productivity effects of a generative artificial intelligence (AI) technology, the assistive chatbot ChatGPT, in the context of midlevel professional writing tasks. In a ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Examining science education in ChatGPT: An exploratory study of generative artificial intelligence
+AU  - G Cooper
+PY  - 2023
+JF  - Springer
+PB  - Journal of science education and technology
+N2  - ... The advent of generative artificial intelligence (AI) offers transformative potential in the field ... as a catalyst for a broader conversation about the use of generative AI in science education. ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence empowers educational reform: current status, issues, and prospects
+AU  - H Yu, Y Guo
+PY  - 2023
+JF  - frontiersin.org
+PB  - Frontiers in Education
+N2  - ... revolution in generative artificial intelligence . This article ... of generative artificial intelligence . It conducts an in-depth analysis of the current application of generative artificial intelligence ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - The potential of generative artificial intelligence across disciplines: Perspectives and future directions
+AU  - KB Ooi, GWH Tan
+PY  - 2025
+JF  - Taylor & Francis
+PB  - Emran ... - Journal of Computer ...
+N2  - ... of time since its introduction, generative artificial intelligence (AI) has ... More specifically, generative AI utilizes machine learning , ... This has enabled generative AI to have a wide range of ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - [HTML] [HTML] Generative artificial intelligence and its applications in materials science: Current situation and future perspectives
+AU  - Y Liu, Z Yang
+PY  - 2023
+JF  - Elsevier
+PB  - Journal of ...
+N2  - ... Generative Artificial Intelligence (GAI) is attracting the increasing attention of materials ... generative models in the view of methodology. The applications of task-specific generative ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - A survey of generative artificial intelligence techniques
+AU  - T Sakirin, S Kusuma
+PY  - 2023
+JF  - mesopotamian.press
+PB  - ... Journal of  Artificial Intelligence
+N2  - ... of what generative models can craft and constrain. ... generative model capabilities[3]. We focus on three major algorithmic[4] families powering generative systems today: 1) Generative ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence , human creativity, and art
+AU  - E Zhou, D Lee
+PY  - 2024
+JF  - academic.oup.com
+PB  - PNAS nexus
+N2  - ... generative artificial intelligence (AI) into the human creative workflow. We find that generative AI ... ideation and artistic filtering in determining an artist's success with generative AI tools. ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - 'ChatGPT et al.': The ethics of using ( generative ) artificial intelligence in research and science
+AU  - D Schlagwein, L Willcocks
+PY  - 2023
+JF  - journals.sagepub.com
+PB  - Journal of Information ...
+N2  - ... Next, we caution that ( generative ) AI is also at the 'peak of ... for the ethics of using generative AI in research and science. ... forcing our authors to forgo generative AI if they find legitimate, ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - [HTML] [HTML] Generative artificial intelligence (ChatGPT): Implications for management educators
+AU  - V Ratten, P Jones
+PY  - 2023
+JF  - Elsevier
+PB  - The International Journal of Management Education
+N2  - ... new generative artificial intelligence because of its ease of use and affordability. This article is conceptual in nature and discusses ChatGPT as a generative form of artificial intelligence ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - The new reality of education in the face of advances in generative artificial intelligence
+AU  - FJ Garcia-Penalvo, F Llorens Largo
+PY  - 2023
+JF  - rua.ua.es
+PB  - rua.ua.es
+N2  - ... artificial intelligence in all areas. Although ChatGPT is just one of many generative artificial intelligence ... , and challenges of generative artificial intelligence technologies in education to ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Will generative artificial intelligence deliver on its promise in health care?
+AU  - RM Wachter, E Brynjolfsson
+PY  - 2024
+JF  - jamanetwork.com
+PB  - Jama
+N2  - ... Since they became publicly available in late 2022, generative artificial intelligence (genAI) tools such as ChatGPT have elicited enormous enthusiasm, as well as concern, in all sectors ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence
+AU  - C Rios-Campos, JDCL Viteri...
+PY  - 2023
+JF  - ojs.southfloridapublishing.com
+PB  - Campos, JDCL Viteri... - ... Florida Journal of ...
+N2  - The general objective of the research is to determine the advances related to Generative Artificial Intelligence . Methodology, in this research, 47 documents have been selected, carried ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence and ChatGPT
+AU  - MD Byrne
+PY  - 2023
+JF  - jopan.org
+PB  - Journal of PeriAnesthesia Nursing
+N2  - ... of generative artificial intelligence (AI) ... of generative AI into our personal and professional lives and its impacts on perianesthesia practice in particular are only just emerging. Generative ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence : Can ChatGPT write a quality abstract?
+AU  - FE Babl, MP Babl
+PY  - 2023
+JF  - Wiley Online Library
+PB  - Emergency Medicine Australasia
+N2  - ... ChatGPT is a generative artificial intelligence chatbot which may have a role in medicine and ... The scientific and medical use of generative artificial intelligence , however, raises many ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Promises and challenges of generative artificial intelligence for human learning
+AU  - L Yan, S Greiff
+PY  - 2024
+JF  - nature.com
+PB  - Nature Human Behaviour
+N2  - Generative artificial intelligence (GenAI) holds the potential to transform the delivery, cultivation and evaluation of human learning. Here the authors examine the integration of GenAI as ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - The dangers of generative artificial intelligence
+AU  - L Tredinnick, C Laybats
+PY  - 2023
+JF  - journals.sagepub.com
+PB  - Business Information Review
+N2  - ... In the second place 2023 is also the moment at which the novelty of generative AI is ... psychological impact of artificial general intelligence in the future. As generative AI becomes more ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - [HTML] [HTML] Generative artificial intelligence : Implications and considerations for higher education practice
+AU  - T Farrelly, N Baker
+PY  - 2023
+JF  - mdpi.com
+PB  - Education Sciences
+N2  - ... for a world where Generative AI tools will be woven through all aspects of their life and work. This paper explores the question of the potential impact of Generative AI on international ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - The dark side of generative artificial intelligence : A critical analysis of controversies and risks of ChatGPT
+AU  - K Wach, CD Duong
+PY  - 2023
+JF  - ceeol.com
+PB  - ... and Economics Review
+N2  - ... of generative artificial intelligence (GAI) in business. This study sought to develop a conceptual framework that gathers the negative aspects of GAI development in management and ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - [HTML] [HTML] The ChatGPT ( generative artificial intelligence ) revolution has made artificial intelligence approachable for medical professionals
+AU  - B Mesko
+PY  - 2023
+JF  - jmir.org
+PB  - Journal of medical Internet research
+N2  - ... In this paper, I argue that attention to, public access to, and debate about LLMs have initiated a wave of products and services using generative artificial intelligence (AI), which had ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence : Fundamentals
+AU  - JM Corchado, S Lopez
+PY  - 2023
+JF  - revistas.usal.es
+PB  - ... and  artificial intelligence  ...
+N2  - ... Artificial intelligence has become one of the driving forces of 21st century economics, ... of generative artificial intelligence . This article explains what generative artificial intelligence is and ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - ChatGPT and generative artificial intelligence for medical education: potential impact and opportunity
+AU  - CK Boscardin, B Gin
+PY  - 2024
+JF  - journals.lww.com
+PB  - Academic Medicine
+N2  - ... worry over the advent of generative artificial intelligence (AI) ... , we provide a definition of generative AI, introduce an AI ... and opportunities to optimize integration of generative AI, such as ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence and evaluating strategic decisions
+AU  - AR Doshi, JJ Bell
+PY  - 2025
+JF  - Wiley Online Library
+PB  - Strategic Management ...
+N2  - ... We investigate the use of generative artificial intelligence (AI) in ... We find that generative AI often produces evaluations that are ... This study highlights the value of generative AI in strategic ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Initial policy considerations for generative artificial intelligence
+AU  - P Lorenz, K Perset
+PY  - 2023
+JF  - ideas.repec.org
+PB  - ideas.repec.org
+N2  - ... Generative artificial intelligence (AI) creates new content in response to prompts, offering ... Governments recognise the transformative impact of generative AI and are actively working to ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - [PDF] [PDF] Advancements and applications of generative artificial intelligence
+AU  - DG Takale, PN Mahalle
+PY  - 2024
 JF  - researchgate.net
-PB  - IEEE Intelligent Systems
-N2  - ... data science-- directly apply to AI thinking . Yet, AI thinking needs to go beyond what computational thinking offers... Here, we attempt to provide a bit of substance to AI thinking , ...
+PB  - Journal of Information ...
+N2  - ... As a result of generative artificial intelligence , we can contribute to the development of sustainable development and environmental stewardship by generating insights and solutions to ...
 AB  - 
 ER  -
 
 TY  - JOUR
-TI  - [PDF] [PDF] New frameworks for studying and assessing the development of computational thinking
-AU  - K Brennan, M Resnick
-PY  - 2012
-JF  - scratched.gse.harvard.edu
-PB  - ... of the 2012 annual meeting of ...
-N2  - ... , we have developed a computational thinking framework that ... of our computational thinking framework: computational ... parallelism, etc.), computational practices (the practices designers ...
+TI  - [HTML] [HTML] Opportunities, challenges, and future directions of generative artificial intelligence in medical education: scoping review
+AU  - C Preiksaitis, C Rose
+PY  - 2023
+JF  - mededu.jmir.org
+PB  - JMIR medical education
+N2  - ... As generative artificial intelligence (AI) technologies like Chat GPT and Bard gain prominence (... Publicly available generative artificial intelligence (AI) services based on large language ...
 AB  - 
 ER  -
 
 TY  - JOUR
-TI  - Computational thinking in compulsory education: Towards an agenda for research and practice
-AU  - J Voogt, P Fisser
-PY  - 2015
+TI  - Generative artificial intelligence in surgery
+AU  - S Rodler, C Ganjavi
+PY  - 2024
+JF  - Elsevier
+PB  - Surgery
+N2  - ... Generative artificial intelligence can be used before surgery for ... Intraoperatively, generative artificial intelligence can document ... interaction between surgeons and artificial intelligence . ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Human resource management in the age of generative artificial intelligence : Perspectives and research directions on ChatGPT
+AU  - P Budhwar, S Chowdhury
+PY  - 2023
+JF  - Wiley Online Library
+PB  - Human Resource ...
+N2  - ... and its variants that use generative artificial intelligence (AI) ... The introduction of more advanced and potent generative AI ... HRM scholarship in the realm of generative AI. In doing so, the ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence and the education sector
+AU  - N Ahmad, S Murugesan
+PY  - 2023
+JF  - ieeexplore.ieee.org
+PB  - Computer
+N2  - ... Large language models (LLMs), such as ChatGPT and now GPT4, are considered a significant breakthrough in conversational artificial intelligence . Academic institutions have ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Role and challenges of ChatGPT and similar generative artificial intelligence in business management
+AU  - N Rane
+PY  - 2023
+JF  - papers.ssrn.com
+PB  - Available at SSRN 4603227
+N2  - The incorporation of ChatGPT and other Large Language Models (LLMs) has transformed the landscape of Business Management across various sectors. This research delves into the ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - [HTML] [HTML] On ChatGPT and beyond: How generative artificial intelligence may affect research, teaching, and practice
+AU  - R Peres, M Schreier
+PY  - 2023
+JF  - Elsevier
+PB  - International Journal of ...
+N2  - ... How does ChatGPT, and other forms of Generative Artificial Intelligence (GenAI) affect the way we have been conducting--and evaluating--academic research, teaching, and business ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - [HTML] [HTML] Adoption and impacts of generative artificial intelligence : Theoretical underpinnings and research agenda
+AU  - R Gupta, K Nair
+PY  - 2024
+JF  - Elsevier
+PB  - International Journal of ...
+N2  - ... the adoption of ChatGPT and other generative artificial intelligence technologies in marketing. The ... on the adoption of Artificial Intelligence (AI) and the use of Generative AI in marketing. ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - What is generative in generative artificial intelligence ? A design-based perspective
+AU  - A Bordas, P Le Masson
+PY  - 2024
 JF  - Springer
-PB  - Education and information ...
-N2  - ... computational thinking there is a range of issues and challenges facing us as we attempt to integrate computational thinking ... mean when we speak of computational thinking , to what the ...
+PB  - Research in Engineering ...
+N2  - ... Artificial intelligence was built on the promise of human understanding and a construct of intelligence , whereas generative artificial intelligence ... ) automated construction of intelligence " (...
 AB  - 
 ER  -
 
 TY  - JOUR
-TI  - Exploring the computational thinking effects in pre-university education
-AU  - FJ Garcia-Penalvo, AJ Mendes
-PY  - 2018
+TI  - [HTML] [HTML] Generative artificial intelligence in ophthalmology
+AU  - E Waisberg, J Ong
+PY  - 2025
 JF  - Elsevier
-PB  - Penalvo ,  AJ Mendes  - Computers in human behavior
-N2  - ... thinking skills and problem-solving skills throughout programming approaches or computational thinking . ... , with a special focus on the computational thinking as one of the components ...
+PB  - Survey of ...
+N2  - ... Generative artificial intelligence (AI) has revolutionized medicine over the past several years. A generative ... Finally, we examine future directions and considerations for generative AI in ...
 AB  - 
 ER  -
 
 TY  - JOUR
-TI  - Reflective abstraction in computational thinking
-AU  - I Cetin, E Dubinsky
-PY  - 2017
-JF  - Elsevier
-PB  - The Journal of Mathematical Behavior
-N2  - ... computational thinking is not new to the education community. Although computational thinking ... Of the numerous definitions for the computational thinking found in the literature we will ...
+TI  - ChatGPT and similar generative artificial intelligence (AI) for smart industry: role, challenges and opportunities for industry 4.0, industry 5.0 and society 5.0
+AU  - N Rane
+PY  - 2023
+JF  - papers.ssrn.com
+PB  - Challenges and Opportunities for Industry
+N2  - ... Generative Artificial Intelligence (AI) models like ChatGPT have become transformative ... This research examines the evolving role of ChatGPT and comparable generative AI in the ...
 AB  - 
 ER  -
 
 TY  - JOUR
-TI  - Remaining trouble spots with computational thinking
-AU  - PJ Denning
-PY  - 2017
+TI  - Generative artificial intelligence and engineering education.
+AU  - A Johri, AS Katz
+PY  - 2023
+JF  - search.ebscohost.com
+PB  - Journal of Engineering ...
+N2  - While we discuss how GAI shapes research and teaching practices within engineering education, we recognize that there are additional implications for the use of GAI for self-motivated ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence in education and its implications for assessment
+AU  - J Mao, B Chen
+PY  - 2024
+JF  - Springer
+PB  - TechTrends
+N2  - ... rapid advancement of generative artificial intelligence (AI) ... and challenges of employing generative AI for educational ... dilemmas associated with using generative AI for assessment ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence : a historical perspective
+AU  - R He, J Cao
+PY  - 2025
+JF  - academic.oup.com
+PB  - National Science Review
+N2  - ... graphical models, (iii) deep generative methodologies that utilize deep neural networks to ... a variety of generative tasks. This paper also reviews successful generative applications and ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - News from generative artificial intelligence is believed less
+AU  - C Longoni, A Fradkin
+PY  - 2022
 JF  - dl.acm.org
-PB  - Communications of the ACM
-N2  - ... The claims that it benefits everyone beyond computational designers are as yet unsubstantiated. This examination of computational thinking sharpens our definition of algorithm ...
+PB  - Proceedings of the 2022 ...
+N2  - ... respond to disclosure of use of generative AI is thus a somewhat ... For instance, it is possible that generative AI could have a ... Future research could explore perceptions of generative AI ...
 AB  - 
 ER  -
 
 TY  - JOUR
-TI  - Unplugged approaches to computational thinking : A historical perspective
-AU  - EN Caeli, A Yadav
-PY  - 2020
-JF  - Springer
-PB  - TechTrends
-N2  - ... of computational thinking and how history can inspire and inform initiatives today. We introduce how computational thinking ... to argue that computational thinking skills and computing ...
+TI  - Generative artificial intelligence in drug discovery: basic framework, recent advances, challenges, and opportunities
+AU  - A Gangwal, A Ansari
+PY  - 2024
+JF  - frontiersin.org
+PB  - Frontiers in ...
+N2  - ... the potential of generative artificial intelligence in ... generative artificial intelligence have also been discussed in this review to show the ever-increasing application of artificial intelligence ...
 AB  - 
 ER  -
 
 TY  - JOUR
-TI  - Developing computational thinking with educational technologies for young learners
-AU  - YH Ching, YC Hsu
-PY  - 2018
-JF  - Springer
-PB  - TechTrends
-N2  - ... the opportunities for developing computational thinking in young learners, ... computational thinking , and the analyses of selected readily available technologies for computational thinking ...
+TI  - Generative artificial intelligence in marketing: Applications, opportunities, challenges, and research agenda
+AU  - N Kshetri, YK Dwivedi
+PY  - 2024
+JF  - Elsevier
+PB  - International Journal of ...
+N2  - ... in generative artificial intelligence (GAI), ... of generative artificial intelligence in marketing. The article discusses the facilitators and barriers for the use of generative artificial intelligence in ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence as a new context for management theories: analysis of ChatGPT
+AU  - P Korzynski, G Mazurek
+PY  - 2023
+JF  - emerald.com
+PB  - Central European ...
+N2  - ... The primary purpose of this paper is to examine how generative Artificial Intelligence (AI) such as ChatGPT may serve as a new context for management theories and concepts ...
+AB  - 
+ER  -
+
+TY  - JOUR
+TI  - Generative artificial intelligence and academia: Implication for research, teaching and service
+AU  - A Barros, A Prasad
+PY  - 2023
+JF  - journals.sagepub.com
+PB  - Management Learning
+N2  - ... generative artificial intelligence for academia. We discuss how generative artificial intelligence ... generative artificial intelligence will impact each of these areas. Further recognizing that ...
 AB  - 
 ER  -
 

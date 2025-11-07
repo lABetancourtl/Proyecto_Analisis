@@ -1,0 +1,70 @@
+{
+  "pairs": [
+    {
+      "i": 0,
+      "j": 1,
+      "title": "0 <> 1"
+    }
+  ],
+  "matrices": {
+    "tfidf": [
+      [
+        1.0,
+        0.22361669781170673
+      ],
+      [
+        0.22361669781170673,
+        1.0
+      ]
+    ],
+    "sbert": [
+      [
+        1.0,
+        0.30924272537231445
+      ],
+      [
+        0.30924272537231445,
+        1.0
+      ]
+    ]
+  },
+  "details": {
+    "0-1": {
+      "levenshtein": {
+        "score": 0.27529626253418416,
+        "steps": {
+          "lev": 795,
+          "len_max": 1097
+        }
+      }
+    },
+    "tfidf_steps": {
+      "n_features": 131,
+      "sample_features": [
+        "accelerated",
+        "actual",
+        "ai",
+        "algorithm",
+        "algorithms",
+        "analysis",
+        "and",
+        "application",
+        "applications",
+        "approach",
+        "approaches",
+        "are",
+        "artificial",
+        "as",
+        "assisted",
+        "blended",
+        "building",
+        "by",
+        "coding",
+        "comprehensively"
+      ]
+    },
+    "sbert_steps": {
+      "embedding_dim": 384
+    }
+  }
+}

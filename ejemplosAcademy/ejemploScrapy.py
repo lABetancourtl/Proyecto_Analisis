@@ -27,7 +27,7 @@ class BibliometricSpider(scrapy.Spider):
         'FEED_EXPORT_ENCODING': 'utf-8',
     }
 
-    def __init__(self, query='computational thinking', *args, **kwargs):
+    def __init__(self, query='generative artificial intelligence', *args, **kwargs):
         super(BibliometricSpider, self).__init__(*args, **kwargs)
         self.query = query
         self.start_urls = self.prepare_start_urls()
@@ -156,4 +156,4 @@ def run_spider(query):
     process.start()
 
 if __name__ == "__main__":
-    run_spider("computational thinking")
+    run_spider("generative artificial intelligence")

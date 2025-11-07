@@ -71,7 +71,7 @@ class BibliometricSpider(scrapy.Spider):
     }
 
     def start_requests(self):
-        url = 'https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&q=computational+thinking'
+        url = 'https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&q=enerative+artificial+intelligence'
         yield scrapy.Request(url, callback=self.parse)
 
     def parse(self, response):
