@@ -172,7 +172,7 @@ class BibliometricSpider(scrapy.Spider):
             return
 
         # Ruta completa donde quieres guardar el resultado:
-        output_dir = r"//home/betancourt/UQ/Proyecto Analisis/ProyectoAlgoritmos-main/requerimiento1/scrapy"
+        output_dir = r"/home/betancourt/UQ/Proyecto Analisis/ProyectoAlgoritmos-main/requerimiento1/scrapy"
         filename = os.path.join(output_dir, f"resultadosGoogleAcademy.{self.export_format}")
 
         # Asegúrate de que el directorio exista:

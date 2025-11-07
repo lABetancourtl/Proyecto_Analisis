@@ -37,7 +37,7 @@ def mostrar_requerimiento_1(results_dir, script_path):
     """Renderiza en Streamlit la sección del Requerimiento 1"""
     st.markdown('<div class="requirement-title">Requerimiento 1: Unificación de Datos y Eliminación de Duplicados</div>', unsafe_allow_html=True)
 
-    if st.button('🚀 Ejecutar Requerimiento 1'):
+    if st.button('Ejecutar Requerimiento 1'):
         with st.spinner('Ejecutando Scrapy y unificación...'):
             try:
                 run_script(script_path, "MainScrapys.py")
@@ -64,8 +64,8 @@ def mostrar_requerimiento_1(results_dir, script_path):
     col1, col2 = st.columns(2)
     with col1:
         with open(unificado_path, 'rb') as f:
-            st.download_button("⬇️ Descargar Archivo Unificado", f, file_name="resultados_unificados.ris", mime="application/ris")
+            st.download_button("⬇Descargar Archivo Unificado", f, file_name="resultados_unificados.ris", mime="application/ris")
     with col2:
         if os.path.exists(duplicados_path):
             with open(duplicados_path, 'rb') as f:
-                st.download_button("⬇️ Descargar Duplicados Eliminados", f, file_name="duplicados_eliminados.ris", mime="application/ris")
+                st.download_button("⬇Descargar Duplicados Eliminados", f, file_name="duplicados_eliminados.ris", mime="application/ris")
