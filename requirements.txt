@@ -11,3 +11,5 @@ geopy
 pycountry
 kaleido
 matplotlib
+folium
+streamlit-folium
