@@ -4,3 +4,10 @@ jellyfish
 rapidfuzz
 sentence-transformers
 scikit-learn
+wordcloud
+plotly
+reportlab
+geopy
+pycountry
+kaleido
+matplotlib

@@ -6,7 +6,7 @@ from requerimiento1.req1_unificacion import mostrar_requerimiento_1
 from requerimiento2.req2_similitud import mostrar_requerimiento_2
 from requerimiento3.req3_palabras import mostrar_requerimiento_3
 from requerimiento4.requerimiento4_clustering import mostrar_requerimiento_4
-
+from requerimiento5.requerimiento5_visualizacion import mostrar_requerimiento_5
 
 # === CONFIGURACIÓN GENERAL ===
 
@@ -50,7 +50,7 @@ st.markdown("""
 
 # === FUNCIÓN PRINCIPAL ===
 def main():
-    st.markdown('<div class="main-title">📘 Análisis Bibliométrico<br>Inteligencia Artificial Generativa</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-title">Análisis Bibliométrico<br>Inteligencia Artificial Generativa</div>', unsafe_allow_html=True)
 
     st.markdown("""
     <div class="description">
@@ -61,30 +61,34 @@ def main():
     """, unsafe_allow_html=True)
 
     # Crear pestañas
-    tab1, tab2, tab3, tab4 = st.tabs([
+    tab1, tab2, tab3, tab4, tab5 = st.tabs([
         "Requerimiento 1: Unificación y Duplicados",
         "Requerimiento 2: Similitud Textual",
         "Requerimiento 3: Palabras Clave y Frecuencia",
-        "Requerimiento 4: Dendrograma de Similitud"
+        "Requerimiento 4: Dendrograma de Similitud",
+        "Requerimiento 5: Visualizaciones Avanzadas"
     ])
 
 
-    # === 📂 PESTAÑA 1 ===
+    # === PESTAÑA 1 ===
     with tab1:
         req1_results_dir = os.path.join(PROJECT_ROOT, "resultados", "requerimiento1")
         req1_script = os.path.join(PROJECT_ROOT, "requerimiento1", "scrapy", "MainScrapys.py")
         mostrar_requerimiento_1(req1_results_dir, req1_script)
 
-    # === ⚙️ PESTAÑA 2 ===
+    # ===PESTAÑA 2 ===
     with tab2:
         mostrar_requerimiento_2(PROJECT_ROOT)
 
-    # === 🗝️ PESTAÑA 3 ===
+    # ===PESTAÑA 3 ===
     with tab3:
         mostrar_requerimiento_3(PROJECT_ROOT)
-
+    # ===PESTAÑA 4 ===
     with tab4:
         mostrar_requerimiento_4(PROJECT_ROOT)
+    # ===PESTAÑA 5 ===
+    with tab5:
+        mostrar_requerimiento_5(PROJECT_ROOT)
 
 # === PUNTO DE ENTRADA ===
 if __name__ == "__main__":

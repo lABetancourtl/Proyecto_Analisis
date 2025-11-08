@@ -48,6 +48,28 @@ There are two ways to do it:
   ```bash
   pip install scikit-learn
   ```
+  ```bash
+  pip install wordcloud
+  ```
+  ```bash
+  pip install plotly
+  ```
+  ```bash
+  pip install reportlab
+  ```
+  ```bash
+  pip install geopy
+  ```
+  ```bash
+  pip install pycountry
+  ```
+  ```bash
+  pip install kaleido
+  ```
+  ```bash
+  pip install matplotlib
+  ```
+  
 ## Install with requeriments.txt
 - We have a file with all the necessary dependencies, so you just need to run the following command and everything will be installed automatically.
 
