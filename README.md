@@ -1,100 +1,139 @@
 # Bibliometric Analysis Project
 
 ## Overview
-This is a university project aimed at developing a bibliometric analysis and visualization tool similar to **VOSviewer**.  
-The goal is to analyze scientific publication data, extract relationships between authors, keywords, or institutions, and visualize them as interactive networks.
+This is a university project aimed at developing a bibliometric analysis and visualization tool similar to VOSviewer. The tool allows analyzing scientific publication data, extracting relationships between authors, keywords, or institutions, and visualizing them as interactive networks.
 
 ---
 
-## Team
+## Development Team
 ### Anderson Betancourt Arenas
 ### Damir Alexis Chapal I
 ---
-## The following instructions will assist in the correct initial implementation to run the project for the first time.
-### Create a Virtual Environment
-  In your project directory:
+
+## Initial Implementation Guide
+
+Follow these instructions to set up and run the project for the first time.
+
+### Prerequisites
+
+  ```hash
+  Python 3.8 or higher
+  pip (Python package manager)
+  ```
+
+## 1. Create a Virtual Environment
+  It's recommended to use a virtual environment to manage project dependencies.
+  
+  On Windows:
   ```bash
   python -m venv venv
   ```
-  Then:
   ```bash
   venv\Scripts\activate
   ```
+  On Linux/macOS:
+  ```bash
+  python3 -m venv venv
+  ```
+  ```bash
+  source venv/bin/activate
+  ```
+  
 Once activated, your terminal should display (venv) before the path.
 
 ---
 
-### Install Required Libraries
-With the virtual environment active, install the core dependencies and libraries.
+## 2. Install Dependencies
+With the virtual environment active, install the required libraries.
 
-There are two ways to do it:
-## Install everything manually
+### Option A: Manual Installation
 
-  ```bash
-  pip install streamlit
-  ```
-  ```bash
- pip install seaborn
-  ```
-  ```bash
-  pip install jellyfish
-  ```
-  ```bash
-  pip install rapidfuzz
-  ```
-  ```bash
-  pip install sentence-transformers
-  ```
-  ```bash
-  pip install scikit-learn
-  ```
-  ```bash
-  pip install wordcloud
-  ```
-  ```bash
-  pip install plotly
-  ```
-  ```bash
-  pip install reportlab
-  ```
-  ```bash
-  pip install geopy
-  ```
-  ```bash
-  pip install pycountry
-  ```
-  ```bash
-  pip install kaleido
-  ```
-  ```bash
-  pip install matplotlib
-  ```
+ ```bash
+  pip install streamlit seaborn jellyfish rapidfuzz sentence-transformers scikit-learn wordcloud plotly reportlab geopy pycountry kaleido matplotlib
+ ```
+ 
   
-## Install with requeriments.txt
+### Option B: Installation from requirements.txt (Recommended)
+
 - We have a file with all the necessary dependencies, so you just need to run the following command and everything will be installed automatically.
 
   ```bash
   pip install -r requirements.txt
   ```
-## Dependencies Description
+## Core Dependencies Description
 
-- wordcloud → Used to generate visual word clouds from text data.
-- seaborn → A statistical data visualization library built on top of Matplotlib.
-- jellyfish → Provides algorithms for approximate and phonetic string matching.
-- rapidfuzz → A fast string matching and similarity computation library.
-- sentence-transformers → Allows encoding of sentences and paragraphs into dense vector representations for semantic similarity and clustering.
-- scikit-learn → A powerful machine learning library for data preprocessing, classification, regression, and clustering.
-- streamlit → Used to build interactive web apps for data science and machine learning projects easily.
-
-Once the dependecies were installed we can now run the project
+| Library  |  Purpose |
+|---|---|
+|streamlit |Create interactive web apps for data science  |
+|seaborn |Statistical data visualization |
+|jellyfish |Approximate string matching algorithms |
+|rapidfuzz |Fast string matching and similarity computation  |
+|sentence |Text encoding into vector representations  |
+|scikit |Machine learning and data analysis   |
+|wordcloud  |Word cloud generation   |
+|plotly  |Interactive charts and visualizations   |
+|reportlab  |PDF report generation   |
+|geopy   |Geocoding and geographic calculations   |
+|pycountry  |Country data handling   |
+|kaleido  |Static graph export   |
+|matplotlib  |Basic data visualization   |
 
 ---
 
-## How to run the project
+##  Running the Project
 
-To run the project, we just need to execute one instruction in the root of our project, so the first step is to open a new terminal in our project root and then we need to execute this:
+To run the project, open a terminal in the project root (with virtual environment activated) and execute:
 
 ```bash
 streamlit run visual/indexfinal.py
 ```
-If you have followed all the steps correctly since installing the virtual environment, then the project should now be running.
+The application will automatically open in your default browser at http://localhost:8501.
+
+---
+
+### Useful Commands for Linux
+
+  ## If you encounter permission issues:
+  
+  ```bash
+    # Give execution permissions to scripts if needed
+    chmod +x scripts/*.sh
+    
+    # If there are system package installation issues
+    sudo apt-get update
+    sudo apt-get install python3-pip python3-venv
+  ```
+### To deactivate the virtual environment:
+
+```bash
+  deactivate
+```
+### To remove the virtual environment:
+
+```bash
+  rm -rf venv
+```
+
+### Project Structure
+
+```bash
+  bibliometric-project/
+  │
+  ├── visual/
+  │   └── indexfinal.py      # Main application file
+  ├── requirements.txt       # Project dependencies
+  ├── README.md             # This file
+  └── ...                   # Other project files
+```
+---
+## Support
+
+If you encounter any issues during installation or execution:
+
+  1. Verify that Python is correctly installed
+  2. Confirm that the virtual environment is activated
+  3. Ensure you're in the project root directory
+  4. Check that all dependencies installed correctly
+
+You're all set! Now you can start using the bibliometric analysis tool.
+
