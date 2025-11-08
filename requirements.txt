@@ -1,0 +1,6 @@
+streamlit
+seaborn
+jellyfish
+rapidfuzz
+sentence-transformers
+scikit-learn

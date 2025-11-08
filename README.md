@@ -25,7 +25,11 @@ Once activated, your terminal should display (venv) before the path.
 ---
 
 ### Install Required Libraries
-With the virtual environment active, install the core dependencies and libraries:
+With the virtual environment active, install the core dependencies and libraries.
+
+There are two ways to do it:
+## Install everything manually
+
   ```bash
   pip install streamlit
   ```
@@ -44,7 +48,12 @@ With the virtual environment active, install the core dependencies and libraries
   ```bash
   pip install scikit-learn
   ```
+## Install with requeriments.txt
+- We have a file with all the necessary dependencies, so you just need to run the following command and everything will be installed automatically.
 
+  ```bash
+  pip install -r requirements.txt
+  ```
 ## Dependencies Description
 
 - wordcloud → Used to generate visual word clouds from text data.
