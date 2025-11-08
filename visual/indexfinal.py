@@ -5,7 +5,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from requerimiento1.req1_unificacion import mostrar_requerimiento_1
 from requerimiento2.req2_similitud import mostrar_requerimiento_2
 from requerimiento3.req3_palabras import mostrar_requerimiento_3
-
+from requerimiento4.requerimiento4_clustering import mostrar_requerimiento_4
 
 
 # === CONFIGURACIÓN GENERAL ===
@@ -61,10 +61,11 @@ def main():
     """, unsafe_allow_html=True)
 
     # Crear pestañas
-    tab1, tab2, tab3 = st.tabs([
+    tab1, tab2, tab3, tab4 = st.tabs([
         "Requerimiento 1: Unificación y Duplicados",
         "Requerimiento 2: Similitud Textual",
-        "Requerimiento 3: Palabras Clave y Frecuencia"
+        "Requerimiento 3: Palabras Clave y Frecuencia",
+        "Requerimiento 4: Dendrograma de Similitud"
     ])
 
 
@@ -82,7 +83,8 @@ def main():
     with tab3:
         mostrar_requerimiento_3(PROJECT_ROOT)
 
-
+    with tab4:
+        mostrar_requerimiento_4(PROJECT_ROOT)
 
 # === PUNTO DE ENTRADA ===
 if __name__ == "__main__":
