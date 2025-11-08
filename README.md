@@ -49,7 +49,7 @@ With the virtual environment active, install the required libraries.
 ### Option A: Manual Installation
 
  ```bash
-  pip install streamlit seaborn jellyfish rapidfuzz sentence-transformers scikit-learn wordcloud plotly reportlab geopy pycountry kaleido matplotlib
+  pip install streamlit seaborn jellyfish rapidfuzz sentence-transformers scikit-learn wordcloud plotly reportlab geopy pycountry kaleido matplotlib folium streamlit-folium
  ```
  
   
@@ -118,7 +118,7 @@ The application will automatically open in your default browser at http://localh
 ### Project Structure
 
 ```bash
-  bibliometric-project/
+  PROYECTO_ANALISIS/
   │
   ├── visual/
   │   └── indexfinal.py      # Main application file
