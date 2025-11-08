@@ -77,7 +77,8 @@ With the virtual environment active, install the required libraries.
 |pycountry  |Country data handling   |
 |kaleido  |Static graph export   |
 |matplotlib  |Basic data visualization   |
-
+|folium  |Interactive map visualization and geospatial data mapping   |
+|streamlit-folium  |Embed Folium interactive maps inside Streamlit apps   |
 ---
 
 ##  Running the Project
