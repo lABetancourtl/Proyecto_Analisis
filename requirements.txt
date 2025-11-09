@@ -13,3 +13,7 @@ kaleido
 matplotlib
 folium
 streamlit-folium
+scrapy
+selenium
+webdriver-manager
+unidecode
